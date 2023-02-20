@@ -1717,3 +1717,10 @@ Make sure 'GlassDividerUI_C' has been compiled for  Custom Tick
 [2023.02.20-22.45.55:980][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 1.66 sec)
 [2023.02.20-22.45.55:985][ 36]AssetCheck: New page: Asset Save: GlassDividerUI
 [2023.02.20-22.45.55:985][ 36]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/GlassDividerUI.GlassDividerUI
+[2023.02.20-22.47.14:096][283]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.20-22.47.14:140][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIElements/GlassDividerUI" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/GlassDividerUI.uasset" SILENT=true
+[2023.02.20-22.47.14:163][283]LogSavePackage: Moving output files for package: /Game/UIElements/GlassDividerUI
+[2023.02.20-22.47.14:164][283]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/GlassDividerUIBCF3DF9E41BC33501DD401961956A496.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/GlassDividerUI.uasset'
+[2023.02.20-22.47.14:172][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 1.74 sec)
+[2023.02.20-22.47.14:177][283]AssetCheck: New page: Asset Save: GlassDividerUI
+[2023.02.20-22.47.14:177][283]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/GlassDividerUI.GlassDividerUI
