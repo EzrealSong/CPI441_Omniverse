@@ -1203,3 +1203,108 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.19-20.39.38:422][687]LogPlayLevel: Display: Destroying online subsystem :Context_5
 [2023.03.19-20.41.00:772][594]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
 [2023.03.19-20.41.00:772][594]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.19-20.43.53:182][901]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.19-20.43.53:188][901]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.19-20.43.53:190][901]LogPlayLevel: [PlayLevel] Compiling BP_Chute before play...
+[2023.03.19-20.43.53:355][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.03.19-20.43.53:363][901]LogPlayLevel: PlayLevel: Blueprint regeneration took 174 ms (1 blueprints)
+[2023.03.19-20.43.53:363][901]PIE: New page: PIE session: Steven_Map (Mar 19, 2023, 6:43:53 AM)
+[2023.03.19-20.43.53:363][901]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Steven_Map
+[2023.03.19-20.43.53:395][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032152s)
+[2023.03.19-20.43.53:395][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Steven_Map.Steven_Map to /Game/UEDPIE_0_Steven_Map.Steven_Map (0.032185s)
+[2023.03.19-20.43.53:395][901]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.19-20.43.53:395][901]LogAIModule: Creating AISystem for world Steven_Map
+[2023.03.19-20.43.53:396][901]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2023.03.19-20.43.53:442][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.03.19-20.43.53:443][901]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.03.19-20.43.53:443][901]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.19-20.43.53:443][901]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.19-20.43.53:443][901]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.19-20.43.53:443][901]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.19-20.43.53:443][901]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.19-20.43.53:443][901]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.19-20.43.53:443][901]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.19-20.43.53:443][901]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.19-20.43.53:443][901]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.19-20.43.53:443][901]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.19-20.43.53:443][901]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.19-20.43.53:446][901]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.19-20.43.53:499][901]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.19-20.43.53:499][901]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.19-20.43.53:499][901]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.19-20.43.53:499][901]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.19-20.43.53:500][901]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.03.19-20.43.53:500][901]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.03.19-20.43.53:502][901]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.03.19-20.43.53:502][901]LogInit: FAudioDevice initialized.
+[2023.03.19-20.43.53:502][901]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.03.19-20.43.53:502][901]LogAudio: Display: Audio Device (ID: 4) registered with world 'Steven_Map'.
+[2023.03.19-20.43.53:507][901]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.19-20.43.53:527][901]LogWorld: Bringing World /Game/UEDPIE_0_Steven_Map.Steven_Map up for play (max tick rate 60) at 2023.03.19-13.43.53
+[2023.03.19-20.43.53:531][901]LogWorld: Bringing up level for play took: 0.024655
+[2023.03.19-20.43.53:533][901]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2023.03.19-20.43.53:536][901]PIE: Server logged in
+[2023.03.19-20.43.53:536][901]PIE: Play in editor total start time 0.349 seconds.
+[2023.03.19-20.50.40:974][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.19-20.50.40:974][321]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Steven_Map
+[2023.03.19-20.50.40:975][321]LogWorld: UWorld::CleanupWorld for Steven_Map, bSessionEnded=true, bCleanupResources=true
+[2023.03.19-20.50.40:977][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-20.50.40:983][321]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.19-20.50.40:991][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-20.50.41:037][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.19-20.50.41:038][321]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.03.19-20.50.41:039][321]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.03.19-20.50.41:058][321]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2023.03.19-20.50.41:106][322]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.03.19-20.51.09:322][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.03.19-20.51.09:325][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Steven_Map" FILE="../../../../../../GameProjects/CPI441_Omniverse/Omniverse/Saved/Autosaves/Game/Steven_Map_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.03.19-20.51.09:406][996]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Steven_Map_Auto1
+[2023.03.19-20.51.09:407][996]LogSavePackage: Moving '../../../../../../GameProjects/CPI441_Omniverse/Omniverse/Saved/Steven_Map_Auto16975E9234442DD48298029A7F80317ED.tmp' to '../../../../../../GameProjects/CPI441_Omniverse/Omniverse/Saved/Autosaves/Game/Steven_Map_Auto1.umap'
+[2023.03.19-20.51.09:415][996]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Steven_Map' took 0.141
+[2023.03.19-20.51.09:415][996]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.141
+[2023.03.19-20.51.09:415][996]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Blueprints/BP_Chute] ([2] browsable assets)...
+[2023.03.19-20.51.09:419][996]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Blueprints/BP_Chute.BP_Chute]
+[2023.03.19-20.51.09:419][996]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Blueprints/BP_Chute]
+[2023.03.19-20.51.09:433][996]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_Blueprints/BP_Chute_Auto1
+[2023.03.19-20.51.09:434][996]LogSavePackage: Moving '../../../../../../GameProjects/CPI441_Omniverse/Omniverse/Saved/BP_Chute_Auto14BAD92B54DBA45A1F51362875AA62ACB.tmp' to '../../../../../../GameProjects/CPI441_Omniverse/Omniverse/Saved/Autosaves/Game/UI/UI_Blueprints/BP_Chute_Auto1.uasset'
+[2023.03.19-20.51.09:435][996]LogFileHelpers: Auto-saving content packages took 0.021
+[2023.03.19-20.55.12:744][517]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.19-20.55.12:745][517]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.19-20.55.12:745][517]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.19-20.56.38:492][493]LogEditorTransaction: Undo Move Node
+[2023.03.19-20.56.39:094][515]LogEditorTransaction: Undo Promote To Variable
+[2023.03.19-20.59.15:116][671]LogEditorTransaction: Undo Move Node
+[2023.03.19-20.59.16:278][727]LogEditorTransaction: Undo Promote To Variable
+[2023.03.19-21.02.12:503][139]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2023.03.19-21.02.12:507][139]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Steven_Map' took 0.060
+[2023.03.19-21.02.12:507][139]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StarterContent/Shapes/Chute] ([2] browsable assets)...
+[2023.03.19-21.02.12:595][139]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StarterContent/Shapes/Chute.Chute]
+[2023.03.19-21.02.12:595][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Shapes/Chute]
+[2023.03.19-21.02.12:608][139]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Shapes/Chute_Auto2
+[2023.03.19-21.02.12:609][139]LogSavePackage: Moving '../../../../../../GameProjects/CPI441_Omniverse/Omniverse/Saved/Chute_Auto2477B652B47FC4CA9E68934B6ACCA4BD2.tmp' to '../../../../../../GameProjects/CPI441_Omniverse/Omniverse/Saved/Autosaves/Game/StarterContent/Shapes/Chute_Auto2.uasset'
+[2023.03.19-21.02.12:611][139]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Blueprints/BP_Chute] ([2] browsable assets)...
+[2023.03.19-21.02.12:614][139]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Blueprints/BP_Chute.BP_Chute]
+[2023.03.19-21.02.12:614][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Blueprints/BP_Chute]
+[2023.03.19-21.02.12:629][139]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_Blueprints/BP_Chute_Auto2
+[2023.03.19-21.02.12:630][139]LogSavePackage: Moving '../../../../../../GameProjects/CPI441_Omniverse/Omniverse/Saved/BP_Chute_Auto2FDB3D99B41825B8A243728BABAB54C0C.tmp' to '../../../../../../GameProjects/CPI441_Omniverse/Omniverse/Saved/Autosaves/Game/UI/UI_Blueprints/BP_Chute_Auto2.uasset'
+[2023.03.19-21.02.12:631][139]LogFileHelpers: Auto-saving content packages took 0.124
+[2023.03.19-21.02.12:643][139]LogShaderCompilers: Display: ================================================
+[2023.03.19-21.02.12:643][139]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.19-21.02.12:643][139]LogShaderCompilers: Display: Total job queries 169, among them cache hits 11 (6.51%)
+[2023.03.19-21.02.12:643][139]LogShaderCompilers: Display: Tracking 158 distinct input hashes that result in 116 distinct outputs (73.42%)
+[2023.03.19-21.02.12:643][139]LogShaderCompilers: Display: RAM used: 1.26 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.15%
+[2023.03.19-21.02.12:643][139]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.19-21.02.12:644][139]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.03.19-21.02.12:644][139]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.03.19-21.02.12:644][139]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.03.19-21.02.12:644][139]LogShaderCompilers: Display: ================================================
+[2023.03.19-21.05.06:694][430]LogSlate: Took 0.004839 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.03.19-21.06.40:873][997]LogEditorTransaction: Undo Move Node
+[2023.03.19-21.06.41:417][ 15]LogEditorTransaction: Undo Promote To Variable
+[2023.03.19-21.13.28:499][233]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.19-21.13.28:535][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Blueprints/BP_Chute" FILE="../../../../../../GameProjects/CPI441_Omniverse/Omniverse/Content/UI/UI_Blueprints/BP_Chute.uasset" SILENT=true
+[2023.03.19-21.13.28:552][233]LogSavePackage: Moving output files for package: /Game/UI/UI_Blueprints/BP_Chute
+[2023.03.19-21.13.28:552][233]LogSavePackage: Moving '../../../../../../GameProjects/CPI441_Omniverse/Omniverse/Saved/BP_Chute3FFC5BF242A2B0D048C71C857013B1E3.tmp' to '../../../../../../GameProjects/CPI441_Omniverse/Omniverse/Content/UI/UI_Blueprints/BP_Chute.uasset'
+[2023.03.19-21.13.28:559][233]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 134 ms)
+[2023.03.19-21.13.28:573][233]AssetCheck: New page: Asset Save: BP_Chute
+[2023.03.19-21.13.28:573][233]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UI_Blueprints/BP_Chute.BP_Chute
