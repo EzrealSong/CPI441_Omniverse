@@ -2049,3 +2049,855 @@ Script Stack (0 frames) :
 [2023.03.20-23.20.55:859][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.03.20-23.20.55:865][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
 [2023.03.20-23.20.55:889][459]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.03.20-23.22.48:133][435]BlueprintLog: New page: Compile BP_Chute
+[2023.03.20-23.22.48:202][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.03.20-23.24.41:103][361]BlueprintLog: New page: Compile BP_Chute
+[2023.03.20-23.24.41:173][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.03.20-23.24.41:695][400]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.20-23.24.41:758][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Blueprints/BP_Chute" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UI/UI_Blueprints/BP_Chute.uasset" SILENT=true
+[2023.03.20-23.24.41:777][400]LogSavePackage: Moving output files for package: /Game/UI/UI_Blueprints/BP_Chute
+[2023.03.20-23.24.41:778][400]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/BP_Chute66981CB543B85AB62F6330A9CF76A3B6.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UI/UI_Blueprints/BP_Chute.uasset'
+[2023.03.20-23.24.41:783][400]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 977 ms)
+[2023.03.20-23.24.41:789][400]AssetCheck: New page: Asset Save: BP_Chute
+[2023.03.20-23.24.41:789][400]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UI_Blueprints/BP_Chute.BP_Chute
+[2023.03.20-23.24.44:307][649]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.20-23.24.44:313][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.20-23.24.44:313][649]PIE: New page: PIE session: Steven_Map (Mar 20, 2023, 9:24:44 AM)
+[2023.03.20-23.24.44:313][649]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Steven_Map
+[2023.03.20-23.24.44:348][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034833s)
+[2023.03.20-23.24.44:348][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Steven_Map.Steven_Map to /Game/UEDPIE_0_Steven_Map.Steven_Map (0.034856s)
+[2023.03.20-23.24.44:348][649]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.20-23.24.44:348][649]LogAIModule: Creating AISystem for world Steven_Map
+[2023.03.20-23.24.44:349][649]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2023.03.20-23.24.44:391][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.03.20-23.24.44:393][649]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.03.20-23.24.44:393][649]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.20-23.24.44:393][649]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.20-23.24.44:393][649]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.20-23.24.44:393][649]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.20-23.24.44:393][649]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.20-23.24.44:393][649]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.20-23.24.44:393][649]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.20-23.24.44:393][649]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.20-23.24.44:393][649]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.20-23.24.44:393][649]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.20-23.24.44:393][649]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.20-23.24.44:395][649]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.20-23.24.44:417][649]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.20-23.24.44:417][649]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.20-23.24.44:417][649]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.20-23.24.44:417][649]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.20-23.24.44:418][649]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.03.20-23.24.44:418][649]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.03.20-23.24.44:420][649]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.03.20-23.24.44:420][649]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.03.20-23.24.44:420][649]LogInit: FAudioDevice initialized.
+[2023.03.20-23.24.44:420][649]LogAudio: Display: Audio Device (ID: 13) registered with world 'Steven_Map'.
+[2023.03.20-23.24.44:422][649]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.20-23.24.44:443][649]LogWorld: Bringing World /Game/UEDPIE_0_Steven_Map.Steven_Map up for play (max tick rate 0) at 2023.03.20-16.24.44
+[2023.03.20-23.24.44:448][649]LogWorld: Bringing up level for play took: 0.025198
+[2023.03.20-23.24.44:450][649]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.03.20-23.24.44:451][649]LogBlueprintUserMessages: [BP_Chute_C_0] Hello2
+[2023.03.20-23.24.44:452][649]PIE: Server logged in
+[2023.03.20-23.24.44:452][649]PIE: Play in editor total start time 0.139 seconds.
+[2023.03.20-23.24.45:310][736]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.24.46:309][856]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.24.47:309][976]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.24.48:309][ 96]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.24.49:309][216]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.24.50:309][336]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.24.51:310][456]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.24.52:310][576]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.24.53:310][696]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.24.54:310][816]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.24.55:309][936]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.24.56:309][ 56]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.24.56:309][ 56]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.24.57:310][176]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.24.58:309][296]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.24.59:310][416]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.24.59:310][416]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.00:310][536]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.01:310][656]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.01:310][656]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.02:310][776]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.02:310][776]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.03:360][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-23.25.03:360][896]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Steven_Map
+[2023.03.20-23.25.03:360][896]LogWorld: UWorld::CleanupWorld for Steven_Map, bSessionEnded=true, bCleanupResources=true
+[2023.03.20-23.25.03:362][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-23.25.03:367][896]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.20-23.25.03:372][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-23.25.03:413][896]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.20-23.25.03:413][896]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.03.20-23.25.03:415][896]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.03.20-23.25.03:419][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-23.25.03:425][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.03.20-23.25.03:447][897]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.03.20-23.25.04:909][ 51]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.20-23.25.04:914][ 51]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.20-23.25.04:914][ 51]PIE: New page: PIE session: Steven_Map (Mar 20, 2023, 9:25:04 AM)
+[2023.03.20-23.25.04:914][ 51]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Steven_Map
+[2023.03.20-23.25.04:948][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034770s)
+[2023.03.20-23.25.04:948][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Steven_Map.Steven_Map to /Game/UEDPIE_0_Steven_Map.Steven_Map (0.034793s)
+[2023.03.20-23.25.04:948][ 51]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.20-23.25.04:948][ 51]LogAIModule: Creating AISystem for world Steven_Map
+[2023.03.20-23.25.04:949][ 51]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2023.03.20-23.25.04:988][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.03.20-23.25.04:990][ 51]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.03.20-23.25.04:990][ 51]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.20-23.25.04:990][ 51]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.20-23.25.04:990][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.20-23.25.04:990][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.20-23.25.04:990][ 51]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.20-23.25.04:990][ 51]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.20-23.25.04:990][ 51]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.20-23.25.04:990][ 51]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.20-23.25.04:990][ 51]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.20-23.25.04:990][ 51]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.20-23.25.04:990][ 51]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.20-23.25.04:992][ 51]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.20-23.25.05:013][ 51]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.20-23.25.05:013][ 51]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.20-23.25.05:013][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.20-23.25.05:013][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.20-23.25.05:014][ 51]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.03.20-23.25.05:014][ 51]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.03.20-23.25.05:016][ 51]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.03.20-23.25.05:016][ 51]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.03.20-23.25.05:016][ 51]LogInit: FAudioDevice initialized.
+[2023.03.20-23.25.05:016][ 51]LogAudio: Display: Audio Device (ID: 14) registered with world 'Steven_Map'.
+[2023.03.20-23.25.05:019][ 51]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.20-23.25.05:039][ 51]LogWorld: Bringing World /Game/UEDPIE_0_Steven_Map.Steven_Map up for play (max tick rate 0) at 2023.03.20-16.25.05
+[2023.03.20-23.25.05:043][ 51]LogWorld: Bringing up level for play took: 0.024343
+[2023.03.20-23.25.05:045][ 51]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.03.20-23.25.05:047][ 51]LogBlueprintUserMessages: [BP_Chute_C_0] Hello2
+[2023.03.20-23.25.05:047][ 51]PIE: Server logged in
+[2023.03.20-23.25.05:048][ 51]PIE: Play in editor total start time 0.135 seconds.
+[2023.03.20-23.25.05:909][138]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.06:909][254]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.07:909][374]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.08:909][494]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.09:910][614]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.10:910][734]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.11:909][854]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.12:909][974]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.13:909][ 94]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.14:909][214]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.15:909][334]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.16:909][454]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.17:910][574]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.18:910][694]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.19:910][814]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.20:909][934]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.21:910][ 54]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.22:909][174]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.22:909][174]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.23:910][294]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.23:910][294]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.24:910][414]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.24:910][414]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.25:916][534]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.25:916][534]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.26:111][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-23.25.26:111][553]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Steven_Map
+[2023.03.20-23.25.26:111][553]LogWorld: UWorld::CleanupWorld for Steven_Map, bSessionEnded=true, bCleanupResources=true
+[2023.03.20-23.25.26:113][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-23.25.26:117][553]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.20-23.25.26:123][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-23.25.26:162][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-23.25.26:163][553]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.03.20-23.25.26:164][553]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.03.20-23.25.26:174][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.03.20-23.25.26:196][554]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.03.20-23.25.27:438][677]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.20-23.25.27:443][677]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.20-23.25.27:443][677]PIE: New page: PIE session: Steven_Map (Mar 20, 2023, 9:25:27 AM)
+[2023.03.20-23.25.27:443][677]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Steven_Map
+[2023.03.20-23.25.27:477][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034125s)
+[2023.03.20-23.25.27:478][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Steven_Map.Steven_Map to /Game/UEDPIE_0_Steven_Map.Steven_Map (0.034147s)
+[2023.03.20-23.25.27:478][677]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.20-23.25.27:478][677]LogAIModule: Creating AISystem for world Steven_Map
+[2023.03.20-23.25.27:478][677]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2023.03.20-23.25.27:519][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.03.20-23.25.27:520][677]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.03.20-23.25.27:520][677]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.20-23.25.27:520][677]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.20-23.25.27:520][677]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.20-23.25.27:520][677]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.20-23.25.27:520][677]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.20-23.25.27:520][677]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.20-23.25.27:520][677]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.20-23.25.27:520][677]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.20-23.25.27:521][677]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.20-23.25.27:521][677]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.20-23.25.27:521][677]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.20-23.25.27:523][677]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.20-23.25.27:543][677]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.20-23.25.27:543][677]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.20-23.25.27:543][677]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.20-23.25.27:543][677]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.20-23.25.27:543][677]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.03.20-23.25.27:543][677]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.03.20-23.25.27:545][677]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.03.20-23.25.27:545][677]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.03.20-23.25.27:545][677]LogInit: FAudioDevice initialized.
+[2023.03.20-23.25.27:545][677]LogAudio: Display: Audio Device (ID: 15) registered with world 'Steven_Map'.
+[2023.03.20-23.25.27:548][677]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.20-23.25.27:568][677]LogWorld: Bringing World /Game/UEDPIE_0_Steven_Map.Steven_Map up for play (max tick rate 0) at 2023.03.20-16.25.27
+[2023.03.20-23.25.27:573][677]LogWorld: Bringing up level for play took: 0.024428
+[2023.03.20-23.25.27:575][677]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.03.20-23.25.27:577][677]LogBlueprintUserMessages: [BP_Chute_C_0] Hello2
+[2023.03.20-23.25.27:577][677]PIE: Server logged in
+[2023.03.20-23.25.27:578][677]PIE: Play in editor total start time 0.135 seconds.
+[2023.03.20-23.25.28:442][766]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.29:442][884]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.30:441][  4]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.31:442][124]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.32:442][244]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.33:441][364]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.34:441][484]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.35:442][604]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.36:442][724]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.37:442][844]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.38:441][964]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.39:442][ 84]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.40:441][204]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.41:442][324]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.42:442][444]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.43:441][564]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.44:441][684]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.44:441][684]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.45:442][804]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.46:442][924]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.46:442][924]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.47:442][ 44]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.47:442][ 44]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.48:442][164]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.48:442][164]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.49:370][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-23.25.49:370][258]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Steven_Map
+[2023.03.20-23.25.49:371][258]LogWorld: UWorld::CleanupWorld for Steven_Map, bSessionEnded=true, bCleanupResources=true
+[2023.03.20-23.25.49:373][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-23.25.49:377][258]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.20-23.25.49:383][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-23.25.49:422][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-23.25.49:423][258]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.03.20-23.25.49:425][258]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.03.20-23.25.49:434][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.03.20-23.25.49:467][259]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.03.20-23.25.50:912][417]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.20-23.25.50:917][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.20-23.25.50:917][417]PIE: New page: PIE session: Steven_Map (Mar 20, 2023, 9:25:50 AM)
+[2023.03.20-23.25.50:917][417]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Steven_Map
+[2023.03.20-23.25.50:952][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034310s)
+[2023.03.20-23.25.50:952][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Steven_Map.Steven_Map to /Game/UEDPIE_0_Steven_Map.Steven_Map (0.034334s)
+[2023.03.20-23.25.50:952][417]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.20-23.25.50:952][417]LogAIModule: Creating AISystem for world Steven_Map
+[2023.03.20-23.25.50:952][417]LogPlayLevel: PIE: World Init took: (0.000686s)
+[2023.03.20-23.25.50:993][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.03.20-23.25.50:994][417]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.03.20-23.25.50:994][417]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.20-23.25.50:994][417]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.20-23.25.50:994][417]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.20-23.25.50:994][417]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.20-23.25.50:994][417]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.20-23.25.50:994][417]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.20-23.25.50:994][417]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.20-23.25.50:994][417]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.20-23.25.50:994][417]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.20-23.25.50:994][417]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.20-23.25.50:994][417]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.20-23.25.50:996][417]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.20-23.25.51:017][417]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.20-23.25.51:017][417]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.20-23.25.51:017][417]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.20-23.25.51:017][417]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.20-23.25.51:017][417]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.03.20-23.25.51:017][417]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.03.20-23.25.51:020][417]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.03.20-23.25.51:020][417]LogInit: FAudioDevice initialized.
+[2023.03.20-23.25.51:020][417]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.03.20-23.25.51:020][417]LogAudio: Display: Audio Device (ID: 16) registered with world 'Steven_Map'.
+[2023.03.20-23.25.51:022][417]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.20-23.25.51:042][417]LogWorld: Bringing World /Game/UEDPIE_0_Steven_Map.Steven_Map up for play (max tick rate 0) at 2023.03.20-16.25.51
+[2023.03.20-23.25.51:047][417]LogWorld: Bringing up level for play took: 0.024620
+[2023.03.20-23.25.51:049][417]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.03.20-23.25.51:051][417]LogBlueprintUserMessages: [BP_Chute_C_0] Hello2
+[2023.03.20-23.25.51:051][417]PIE: Server logged in
+[2023.03.20-23.25.51:052][417]PIE: Play in editor total start time 0.134 seconds.
+[2023.03.20-23.25.51:920][505]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.52:920][625]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.53:919][745]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.54:919][865]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.55:919][985]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.56:919][105]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.57:919][225]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.58:919][345]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.25.59:920][465]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.00:920][585]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.01:919][705]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.02:919][825]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.03:919][945]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.04:920][ 65]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.05:919][185]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.06:919][305]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.07:920][425]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.08:913][543]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.08:913][543]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.09:511][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-23.26.09:511][608]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Steven_Map
+[2023.03.20-23.26.09:512][608]LogWorld: UWorld::CleanupWorld for Steven_Map, bSessionEnded=true, bCleanupResources=true
+[2023.03.20-23.26.09:513][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-23.26.09:517][608]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.20-23.26.09:523][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-23.26.09:562][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-23.26.09:564][608]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.03.20-23.26.09:566][608]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.03.20-23.26.09:575][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.03.20-23.26.09:608][609]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.03.20-23.26.10:557][714]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.20-23.26.10:562][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.20-23.26.10:562][714]PIE: New page: PIE session: Steven_Map (Mar 20, 2023, 9:26:10 AM)
+[2023.03.20-23.26.10:562][714]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Steven_Map
+[2023.03.20-23.26.10:597][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034419s)
+[2023.03.20-23.26.10:597][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Steven_Map.Steven_Map to /Game/UEDPIE_0_Steven_Map.Steven_Map (0.034443s)
+[2023.03.20-23.26.10:597][714]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.20-23.26.10:597][714]LogAIModule: Creating AISystem for world Steven_Map
+[2023.03.20-23.26.10:597][714]LogPlayLevel: PIE: World Init took: (0.000685s)
+[2023.03.20-23.26.10:637][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.03.20-23.26.10:638][714]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.03.20-23.26.10:638][714]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.20-23.26.10:638][714]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.20-23.26.10:638][714]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.20-23.26.10:638][714]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.20-23.26.10:638][714]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.20-23.26.10:638][714]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.20-23.26.10:638][714]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.20-23.26.10:638][714]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.20-23.26.10:639][714]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.20-23.26.10:639][714]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.20-23.26.10:639][714]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.20-23.26.10:641][714]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.20-23.26.10:662][714]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.20-23.26.10:663][714]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.20-23.26.10:663][714]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.20-23.26.10:663][714]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.20-23.26.10:663][714]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.03.20-23.26.10:663][714]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.03.20-23.26.10:665][714]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.03.20-23.26.10:665][714]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.03.20-23.26.10:665][714]LogInit: FAudioDevice initialized.
+[2023.03.20-23.26.10:665][714]LogAudio: Display: Audio Device (ID: 17) registered with world 'Steven_Map'.
+[2023.03.20-23.26.10:668][714]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.20-23.26.10:688][714]LogWorld: Bringing World /Game/UEDPIE_0_Steven_Map.Steven_Map up for play (max tick rate 0) at 2023.03.20-16.26.10
+[2023.03.20-23.26.10:692][714]LogWorld: Bringing up level for play took: 0.024322
+[2023.03.20-23.26.10:694][714]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.03.20-23.26.10:696][714]LogBlueprintUserMessages: [BP_Chute_C_0] Hello2
+[2023.03.20-23.26.10:696][714]PIE: Server logged in
+[2023.03.20-23.26.10:697][714]PIE: Play in editor total start time 0.134 seconds.
+[2023.03.20-23.26.11:565][799]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.12:565][919]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.13:566][ 39]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.14:566][159]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.15:566][279]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.16:566][399]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.17:565][519]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.18:566][639]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.19:566][759]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.19:566][759]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.20:566][879]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.20:566][879]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.21:565][999]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.22:566][119]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.22:566][119]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.23:566][239]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.23:566][239]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.24:566][359]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.25:566][479]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.26:566][599]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.26:921][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-23.26.26:921][634]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Steven_Map
+[2023.03.20-23.26.26:921][634]LogWorld: UWorld::CleanupWorld for Steven_Map, bSessionEnded=true, bCleanupResources=true
+[2023.03.20-23.26.26:923][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-23.26.26:927][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.20-23.26.26:934][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-23.26.26:973][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-23.26.26:974][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.03.20-23.26.26:976][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.03.20-23.26.26:985][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.03.20-23.26.27:018][635]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.03.20-23.26.28:404][792]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.20-23.26.28:409][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.20-23.26.28:409][792]PIE: New page: PIE session: Steven_Map (Mar 20, 2023, 9:26:28 AM)
+[2023.03.20-23.26.28:410][792]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Steven_Map
+[2023.03.20-23.26.28:445][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034929s)
+[2023.03.20-23.26.28:445][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Steven_Map.Steven_Map to /Game/UEDPIE_0_Steven_Map.Steven_Map (0.034956s)
+[2023.03.20-23.26.28:445][792]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.20-23.26.28:445][792]LogAIModule: Creating AISystem for world Steven_Map
+[2023.03.20-23.26.28:445][792]LogPlayLevel: PIE: World Init took: (0.000683s)
+[2023.03.20-23.26.28:484][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.03.20-23.26.28:485][792]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.03.20-23.26.28:485][792]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.20-23.26.28:485][792]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.20-23.26.28:485][792]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.20-23.26.28:485][792]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.20-23.26.28:485][792]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.20-23.26.28:486][792]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.20-23.26.28:486][792]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.20-23.26.28:486][792]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.20-23.26.28:486][792]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.20-23.26.28:486][792]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.20-23.26.28:486][792]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.20-23.26.28:488][792]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.20-23.26.28:508][792]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.20-23.26.28:509][792]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.20-23.26.28:509][792]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.20-23.26.28:509][792]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.20-23.26.28:509][792]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.03.20-23.26.28:509][792]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.03.20-23.26.28:511][792]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.03.20-23.26.28:511][792]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.03.20-23.26.28:511][792]LogInit: FAudioDevice initialized.
+[2023.03.20-23.26.28:511][792]LogAudio: Display: Audio Device (ID: 18) registered with world 'Steven_Map'.
+[2023.03.20-23.26.28:514][792]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.20-23.26.28:534][792]LogWorld: Bringing World /Game/UEDPIE_0_Steven_Map.Steven_Map up for play (max tick rate 0) at 2023.03.20-16.26.28
+[2023.03.20-23.26.28:539][792]LogWorld: Bringing up level for play took: 0.024390
+[2023.03.20-23.26.28:540][792]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.03.20-23.26.28:542][792]LogBlueprintUserMessages: [BP_Chute_C_0] Hello2
+[2023.03.20-23.26.28:542][792]PIE: Server logged in
+[2023.03.20-23.26.28:543][792]PIE: Play in editor total start time 0.134 seconds.
+[2023.03.20-23.26.29:412][881]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.30:412][  1]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.31:411][121]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.32:412][241]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.33:412][361]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.34:412][481]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.35:413][601]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.36:412][721]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.37:412][841]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.38:412][961]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.39:412][ 81]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.40:412][201]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.41:413][321]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.42:412][441]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.43:413][561]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.43:413][561]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.44:406][679]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.44:406][679]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.45:462][789]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.45:462][789]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.45:500][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-23.26.45:500][789]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Steven_Map
+[2023.03.20-23.26.45:500][789]LogWorld: UWorld::CleanupWorld for Steven_Map, bSessionEnded=true, bCleanupResources=true
+[2023.03.20-23.26.45:502][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-23.26.45:506][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.20-23.26.45:512][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-23.26.45:550][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-23.26.45:552][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.03.20-23.26.45:554][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.03.20-23.26.45:563][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.03.20-23.26.45:596][790]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.03.20-23.26.46:878][933]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.20-23.26.46:883][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.20-23.26.46:883][933]PIE: New page: PIE session: Steven_Map (Mar 20, 2023, 9:26:46 AM)
+[2023.03.20-23.26.46:883][933]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Steven_Map
+[2023.03.20-23.26.46:917][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034765s)
+[2023.03.20-23.26.46:917][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Steven_Map.Steven_Map to /Game/UEDPIE_0_Steven_Map.Steven_Map (0.034788s)
+[2023.03.20-23.26.46:917][933]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.20-23.26.46:917][933]LogAIModule: Creating AISystem for world Steven_Map
+[2023.03.20-23.26.46:918][933]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2023.03.20-23.26.46:957][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.03.20-23.26.46:958][933]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.03.20-23.26.46:958][933]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.20-23.26.46:958][933]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.20-23.26.46:958][933]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.20-23.26.46:958][933]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.20-23.26.46:958][933]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.20-23.26.46:958][933]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.20-23.26.46:958][933]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.20-23.26.46:958][933]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.20-23.26.46:959][933]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.20-23.26.46:959][933]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.20-23.26.46:959][933]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.20-23.26.46:961][933]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.20-23.26.46:982][933]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.20-23.26.46:982][933]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.20-23.26.46:982][933]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.20-23.26.46:982][933]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.20-23.26.46:983][933]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.03.20-23.26.46:983][933]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.03.20-23.26.46:985][933]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.03.20-23.26.46:985][933]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.03.20-23.26.46:985][933]LogInit: FAudioDevice initialized.
+[2023.03.20-23.26.46:985][933]LogAudio: Display: Audio Device (ID: 19) registered with world 'Steven_Map'.
+[2023.03.20-23.26.46:987][933]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.20-23.26.47:007][933]LogWorld: Bringing World /Game/UEDPIE_0_Steven_Map.Steven_Map up for play (max tick rate 0) at 2023.03.20-16.26.47
+[2023.03.20-23.26.47:012][933]LogWorld: Bringing up level for play took: 0.024194
+[2023.03.20-23.26.47:014][933]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.03.20-23.26.47:015][933]LogBlueprintUserMessages: [BP_Chute_C_0] Hello2
+[2023.03.20-23.26.47:016][933]PIE: Server logged in
+[2023.03.20-23.26.47:016][933]PIE: Play in editor total start time 0.134 seconds.
+[2023.03.20-23.26.47:884][ 21]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.48:884][141]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.49:885][261]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.50:884][381]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.51:884][501]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.52:886][621]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.53:886][741]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.54:886][861]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.55:886][981]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.56:886][101]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.57:886][221]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.58:886][341]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.26.59:886][461]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.27.00:886][581]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.27.01:886][701]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.27.02:886][821]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.27.03:886][941]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.27.04:480][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-23.27.04:480][  4]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Steven_Map
+[2023.03.20-23.27.04:481][  4]LogWorld: UWorld::CleanupWorld for Steven_Map, bSessionEnded=true, bCleanupResources=true
+[2023.03.20-23.27.04:483][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-23.27.04:487][  4]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.20-23.27.04:494][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-23.27.04:532][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-23.27.04:534][  4]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.03.20-23.27.04:536][  4]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.03.20-23.27.04:545][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.03.20-23.27.04:578][  5]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.03.20-23.28.30:850][541]LogEditorTransaction: Undo Delete current selection
+[2023.03.20-23.31.00:838][ 75]BlueprintLog: New page: Compile BP_Chute
+[2023.03.20-23.31.00:908][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.03.20-23.31.01:953][161]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.20-23.31.01:958][161]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.20-23.31.01:958][161]PIE: New page: PIE session: Steven_Map (Mar 20, 2023, 9:31:01 AM)
+[2023.03.20-23.31.01:959][161]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Steven_Map
+[2023.03.20-23.31.01:993][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034525s)
+[2023.03.20-23.31.01:993][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Steven_Map.Steven_Map to /Game/UEDPIE_0_Steven_Map.Steven_Map (0.034550s)
+[2023.03.20-23.31.01:993][161]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.20-23.31.01:994][161]LogAIModule: Creating AISystem for world Steven_Map
+[2023.03.20-23.31.01:994][161]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2023.03.20-23.31.02:035][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.03.20-23.31.02:036][161]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.03.20-23.31.02:037][161]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.20-23.31.02:037][161]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.20-23.31.02:037][161]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.20-23.31.02:037][161]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.20-23.31.02:037][161]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.20-23.31.02:037][161]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.20-23.31.02:037][161]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.20-23.31.02:037][161]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.20-23.31.02:037][161]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.20-23.31.02:037][161]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.20-23.31.02:037][161]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.20-23.31.02:039][161]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.20-23.31.02:061][161]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.20-23.31.02:061][161]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.20-23.31.02:061][161]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.20-23.31.02:061][161]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.20-23.31.02:062][161]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.03.20-23.31.02:062][161]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.03.20-23.31.02:064][161]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.03.20-23.31.02:064][161]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.03.20-23.31.02:064][161]LogInit: FAudioDevice initialized.
+[2023.03.20-23.31.02:064][161]LogAudio: Display: Audio Device (ID: 20) registered with world 'Steven_Map'.
+[2023.03.20-23.31.02:070][161]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.20-23.31.02:092][161]LogWorld: Bringing World /Game/UEDPIE_0_Steven_Map.Steven_Map up for play (max tick rate 0) at 2023.03.20-16.31.02
+[2023.03.20-23.31.02:097][161]LogWorld: Bringing up level for play took: 0.026447
+[2023.03.20-23.31.02:099][161]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.03.20-23.31.02:101][161]LogBlueprintUserMessages: [BP_Chute_C_0] Hello2
+[2023.03.20-23.31.02:101][161]PIE: Server logged in
+[2023.03.20-23.31.02:102][161]PIE: Play in editor total start time 0.143 seconds.
+[2023.03.20-23.31.02:995][238]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.03:993][355]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.04:995][475]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.05:995][595]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.06:996][715]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.07:996][835]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.08:995][955]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.09:996][ 75]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.10:996][195]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.11:995][315]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.12:995][431]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.13:996][551]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.14:996][671]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.15:996][791]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.16:995][911]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.17:995][ 31]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.18:996][151]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.19:995][271]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.20:996][390]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.21:240][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-23.31.21:240][413]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Steven_Map
+[2023.03.20-23.31.21:241][413]LogWorld: UWorld::CleanupWorld for Steven_Map, bSessionEnded=true, bCleanupResources=true
+[2023.03.20-23.31.21:242][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-23.31.21:247][413]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.20-23.31.21:253][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-23.31.21:293][413]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.20-23.31.21:294][413]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.03.20-23.31.21:296][413]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.03.20-23.31.21:299][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-23.31.21:305][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.03.20-23.31.21:338][414]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.03.20-23.31.22:006][483]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.20-23.31.22:011][483]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.20-23.31.22:011][483]PIE: New page: PIE session: Steven_Map (Mar 20, 2023, 9:31:22 AM)
+[2023.03.20-23.31.22:011][483]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Steven_Map
+[2023.03.20-23.31.22:047][483]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035155s)
+[2023.03.20-23.31.22:047][483]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Steven_Map.Steven_Map to /Game/UEDPIE_0_Steven_Map.Steven_Map (0.035178s)
+[2023.03.20-23.31.22:047][483]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.20-23.31.22:047][483]LogAIModule: Creating AISystem for world Steven_Map
+[2023.03.20-23.31.22:047][483]LogPlayLevel: PIE: World Init took: (0.000712s)
+[2023.03.20-23.31.22:087][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.03.20-23.31.22:089][483]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.03.20-23.31.22:089][483]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.20-23.31.22:089][483]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.20-23.31.22:089][483]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.20-23.31.22:089][483]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.20-23.31.22:089][483]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.20-23.31.22:089][483]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.20-23.31.22:089][483]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.20-23.31.22:089][483]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.20-23.31.22:089][483]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.20-23.31.22:089][483]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.20-23.31.22:089][483]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.20-23.31.22:091][483]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.20-23.31.22:112][483]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.20-23.31.22:112][483]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.20-23.31.22:112][483]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.20-23.31.22:112][483]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.20-23.31.22:112][483]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.03.20-23.31.22:112][483]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.03.20-23.31.22:114][483]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.03.20-23.31.22:114][483]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.03.20-23.31.22:114][483]LogInit: FAudioDevice initialized.
+[2023.03.20-23.31.22:114][483]LogAudio: Display: Audio Device (ID: 21) registered with world 'Steven_Map'.
+[2023.03.20-23.31.22:117][483]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.20-23.31.22:137][483]LogWorld: Bringing World /Game/UEDPIE_0_Steven_Map.Steven_Map up for play (max tick rate 0) at 2023.03.20-16.31.22
+[2023.03.20-23.31.22:142][483]LogWorld: Bringing up level for play took: 0.024459
+[2023.03.20-23.31.22:143][483]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2023.03.20-23.31.22:145][483]LogBlueprintUserMessages: [BP_Chute_C_0] Hello2
+[2023.03.20-23.31.22:146][483]PIE: Server logged in
+[2023.03.20-23.31.22:146][483]PIE: Play in editor total start time 0.135 seconds.
+[2023.03.20-23.31.23:006][572]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.24:007][692]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.25:007][812]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.26:006][932]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.27:007][ 52]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.28:006][172]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.29:007][292]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.30:007][412]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.30:007][412]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.31:007][532]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.32:007][652]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.33:007][772]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.34:007][892]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.34:007][892]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.35:007][ 12]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.36:008][132]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.37:011][249]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.37:110][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-23.31.37:110][257]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Steven_Map
+[2023.03.20-23.31.37:110][257]LogWorld: UWorld::CleanupWorld for Steven_Map, bSessionEnded=true, bCleanupResources=true
+[2023.03.20-23.31.37:112][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-23.31.37:116][257]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.20-23.31.37:122][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-23.31.37:161][257]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.20-23.31.37:161][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.03.20-23.31.37:163][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.03.20-23.31.37:167][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-23.31.37:173][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.03.20-23.31.37:206][258]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.03.20-23.31.37:820][317]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.20-23.31.37:825][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.20-23.31.37:825][317]PIE: New page: PIE session: Steven_Map (Mar 20, 2023, 9:31:37 AM)
+[2023.03.20-23.31.37:825][317]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Steven_Map
+[2023.03.20-23.31.37:860][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035016s)
+[2023.03.20-23.31.37:860][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Steven_Map.Steven_Map to /Game/UEDPIE_0_Steven_Map.Steven_Map (0.035039s)
+[2023.03.20-23.31.37:860][317]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.20-23.31.37:861][317]LogAIModule: Creating AISystem for world Steven_Map
+[2023.03.20-23.31.37:861][317]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2023.03.20-23.31.37:900][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.03.20-23.31.37:901][317]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.03.20-23.31.37:901][317]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.20-23.31.37:901][317]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.20-23.31.37:901][317]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.20-23.31.37:901][317]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.20-23.31.37:901][317]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.20-23.31.37:901][317]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.20-23.31.37:901][317]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.20-23.31.37:901][317]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.20-23.31.37:902][317]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.20-23.31.37:902][317]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.20-23.31.37:902][317]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.20-23.31.37:904][317]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.20-23.31.37:924][317]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.20-23.31.37:925][317]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.20-23.31.37:925][317]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.20-23.31.37:925][317]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.20-23.31.37:925][317]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.03.20-23.31.37:925][317]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.03.20-23.31.37:927][317]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.03.20-23.31.37:927][317]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.03.20-23.31.37:927][317]LogInit: FAudioDevice initialized.
+[2023.03.20-23.31.37:927][317]LogAudio: Display: Audio Device (ID: 22) registered with world 'Steven_Map'.
+[2023.03.20-23.31.37:930][317]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.20-23.31.37:950][317]LogWorld: Bringing World /Game/UEDPIE_0_Steven_Map.Steven_Map up for play (max tick rate 0) at 2023.03.20-16.31.37
+[2023.03.20-23.31.37:954][317]LogWorld: Bringing up level for play took: 0.024295
+[2023.03.20-23.31.37:956][317]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2023.03.20-23.31.37:958][317]LogBlueprintUserMessages: [BP_Chute_C_0] Hello2
+[2023.03.20-23.31.37:958][317]PIE: Server logged in
+[2023.03.20-23.31.37:959][317]PIE: Play in editor total start time 0.133 seconds.
+[2023.03.20-23.31.38:822][404]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.39:822][524]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.40:823][644]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.41:822][764]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.42:822][884]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.43:822][  4]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.43:822][  4]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.44:822][124]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.45:822][244]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.46:822][364]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.47:822][484]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.48:822][604]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.49:822][724]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.50:823][844]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.51:822][964]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.52:822][ 84]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.53:822][204]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.54:822][324]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.55:823][444]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.56:823][564]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.31.57:791][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-23.31.57:791][664]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Steven_Map
+[2023.03.20-23.31.57:791][664]LogWorld: UWorld::CleanupWorld for Steven_Map, bSessionEnded=true, bCleanupResources=true
+[2023.03.20-23.31.57:793][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-23.31.57:798][664]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.20-23.31.57:804][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-23.31.57:843][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-23.31.57:845][664]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.03.20-23.31.57:846][664]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.03.20-23.31.57:856][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.03.20-23.31.57:889][665]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.03.20-23.32.34:000][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.03.20-23.32.34:074][ 27]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Steven_Map_Auto1
+[2023.03.20-23.32.34:075][ 27]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/Steven_Map_Auto1A8AA3C0341028A2DB1E1619930637169.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/Autosaves/Game/Steven_Map_Auto1.umap'
+[2023.03.20-23.32.34:083][ 27]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Steven_Map' took 0.123
+[2023.03.20-23.32.34:083][ 27]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.123
+[2023.03.20-23.32.34:084][ 27]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Blueprints/BP_Chute] ([2] browsable assets)...
+[2023.03.20-23.32.34:086][ 27]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Blueprints/BP_Chute.BP_Chute]
+[2023.03.20-23.32.34:086][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Blueprints/BP_Chute]
+[2023.03.20-23.32.34:104][ 27]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_Blueprints/BP_Chute_Auto1
+[2023.03.20-23.32.34:105][ 27]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/BP_Chute_Auto12A321A004F4F6BEA98F5578448F14F04.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/Autosaves/Game/UI/UI_Blueprints/BP_Chute_Auto1.uasset'
+[2023.03.20-23.32.34:106][ 27]LogFileHelpers: Auto-saving content packages took 0.022
+[2023.03.20-23.35.48:003][526]BlueprintLog: New page: Compile BP_Chute
+[2023.03.20-23.35.48:072][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.03.20-23.36.23:355][747]BlueprintLog: New page: Compile BP_Chute
+[2023.03.20-23.36.23:427][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.03.20-23.36.23:937][785]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.20-23.36.24:002][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Blueprints/BP_Chute" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UI/UI_Blueprints/BP_Chute.uasset" SILENT=true
+[2023.03.20-23.36.24:023][785]LogSavePackage: Moving output files for package: /Game/UI/UI_Blueprints/BP_Chute
+[2023.03.20-23.36.24:023][785]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/BP_Chute4EDE05674B7CCCC1041BEE9F78FDF838.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UI/UI_Blueprints/BP_Chute.uasset'
+[2023.03.20-23.36.24:028][785]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 1.06 sec)
+[2023.03.20-23.36.24:036][785]AssetCheck: New page: Asset Save: BP_Chute
+[2023.03.20-23.36.24:036][785]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UI_Blueprints/BP_Chute.BP_Chute
+[2023.03.20-23.36.25:317][902]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.20-23.36.25:323][902]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.20-23.36.25:323][902]PIE: New page: PIE session: Steven_Map (Mar 20, 2023, 9:36:25 AM)
+[2023.03.20-23.36.25:323][902]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Steven_Map
+[2023.03.20-23.36.25:358][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034781s)
+[2023.03.20-23.36.25:358][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Steven_Map.Steven_Map to /Game/UEDPIE_0_Steven_Map.Steven_Map (0.034804s)
+[2023.03.20-23.36.25:358][902]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.20-23.36.25:358][902]LogAIModule: Creating AISystem for world Steven_Map
+[2023.03.20-23.36.25:358][902]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2023.03.20-23.36.25:400][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.03.20-23.36.25:402][902]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.03.20-23.36.25:402][902]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.20-23.36.25:402][902]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.20-23.36.25:402][902]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.20-23.36.25:402][902]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.20-23.36.25:402][902]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.20-23.36.25:402][902]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.20-23.36.25:402][902]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.20-23.36.25:402][902]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.20-23.36.25:403][902]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.20-23.36.25:403][902]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.20-23.36.25:403][902]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.20-23.36.25:405][902]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.20-23.36.25:427][902]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.20-23.36.25:427][902]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.20-23.36.25:427][902]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.20-23.36.25:427][902]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.20-23.36.25:428][902]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.03.20-23.36.25:428][902]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.03.20-23.36.25:430][902]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.03.20-23.36.25:430][902]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.03.20-23.36.25:430][902]LogInit: FAudioDevice initialized.
+[2023.03.20-23.36.25:430][902]LogAudio: Display: Audio Device (ID: 23) registered with world 'Steven_Map'.
+[2023.03.20-23.36.25:435][902]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.20-23.36.25:456][902]LogWorld: Bringing World /Game/UEDPIE_0_Steven_Map.Steven_Map up for play (max tick rate 0) at 2023.03.20-16.36.25
+[2023.03.20-23.36.25:460][902]LogWorld: Bringing up level for play took: 0.025404
+[2023.03.20-23.36.25:462][902]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2023.03.20-23.36.25:464][902]LogBlueprintUserMessages: [BP_Chute_C_0] Hello2
+[2023.03.20-23.36.25:464][902]PIE: Server logged in
+[2023.03.20-23.36.25:465][902]PIE: Play in editor total start time 0.142 seconds.
+[2023.03.20-23.36.26:322][974]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.36.27:387][ 94]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.36.28:386][214]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.36.29:386][334]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.36.30:386][454]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.36.31:386][574]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.36.32:387][694]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.36.33:387][814]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.36.34:387][934]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.36.35:387][ 54]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.36.36:386][174]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.36.37:386][294]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.36.38:387][414]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.36.39:387][534]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.36.40:387][654]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.36.41:387][774]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.36.42:386][894]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.36.43:386][ 10]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.36.44:386][130]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.36.45:386][250]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.36.46:386][370]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.36.47:386][490]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.36.48:386][610]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.36.49:386][730]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.20-23.36.50:140][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-23.36.50:140][812]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Steven_Map
+[2023.03.20-23.36.50:140][812]LogWorld: UWorld::CleanupWorld for Steven_Map, bSessionEnded=true, bCleanupResources=true
+[2023.03.20-23.36.50:142][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-23.36.50:147][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.20-23.36.50:153][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-23.36.50:193][812]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.20-23.36.50:194][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.03.20-23.36.50:195][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.03.20-23.36.50:199][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-23.36.50:205][812]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.03.20-23.36.50:240][813]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.03.20-23.37.53:697][756]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.20-23.37.53:697][756]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.20-23.42.25:246][998]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.20-23.42.25:306][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Blueprints/BP_Chute" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UI/UI_Blueprints/BP_Chute.uasset" SILENT=true
+[2023.03.20-23.42.25:328][998]LogSavePackage: Moving output files for package: /Game/UI/UI_Blueprints/BP_Chute
+[2023.03.20-23.42.25:329][998]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/BP_Chute6205D069473F83F848426BA7DC3AEC42.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UI/UI_Blueprints/BP_Chute.uasset'
+[2023.03.20-23.42.25:335][998]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 1.15 sec)
+[2023.03.20-23.42.25:345][998]AssetCheck: New page: Asset Save: BP_Chute
+[2023.03.20-23.42.25:345][998]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UI_Blueprints/BP_Chute.BP_Chute
+[2023.03.20-23.43.25:203][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.03.20-23.43.25:278][633]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Steven_Map_Auto2
+[2023.03.20-23.43.25:278][633]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/Steven_Map_Auto20ABCD7E44D76BF0B2F16FDB36246F0FD.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/Autosaves/Game/Steven_Map_Auto2.umap'
+[2023.03.20-23.43.25:286][633]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Steven_Map' took 0.128
+[2023.03.20-23.43.25:286][633]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.128
+[2023.03.20-23.44.02:216][136]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.20-23.44.02:269][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Blueprints/BP_Chute" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UI/UI_Blueprints/BP_Chute.uasset" SILENT=true
+[2023.03.20-23.44.02:290][136]LogSavePackage: Moving output files for package: /Game/UI/UI_Blueprints/BP_Chute
+[2023.03.20-23.44.02:291][136]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/BP_Chute51D62E144CF492C6CE310084B495AEA2.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UI/UI_Blueprints/BP_Chute.uasset'
+[2023.03.20-23.44.02:296][136]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1.23 sec)
+[2023.03.20-23.44.02:302][136]AssetCheck: New page: Asset Save: BP_Chute
+[2023.03.20-23.44.02:302][136]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UI_Blueprints/BP_Chute.BP_Chute
+[2023.03.20-23.45.19:717][304]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/Shapes/Machine.Machine
+[2023.03.20-23.45.19:718][304]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
