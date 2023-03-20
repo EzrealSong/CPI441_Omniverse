@@ -1415,3 +1415,556 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.20-19.49.04:237][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.03.20-19.49.04:243][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
 [2023.03.20-19.49.04:268][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.03.20-19.50.43:033][623]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UIElements/GlassDividerUI.GlassDividerUI
+[2023.03.20-19.50.43:034][623]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.20-19.50.43:050][623]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.20-19.50.43:522][623]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.20-19.50.43:522][623]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.20-19.50.47:766][950]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.20-19.50.47:845][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIElements/GlassDividerUI" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/GlassDividerUI.uasset" SILENT=true
+[2023.03.20-19.50.47:865][950]LogPackageLocalizationCache: Processed 48 localized package path(s) for 1 prioritized culture(s) in 0.017060 seconds
+[2023.03.20-19.50.47:898][950]LogSerialization: UsePackageTrailer: 'true'
+[2023.03.20-19.50.47:923][950]LogSavePackage: Moving output files for package: /Game/UIElements/GlassDividerUI
+[2023.03.20-19.50.47:924][950]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/GlassDividerUI36ABAA714A6CA71C85D5D6A65DBF6795.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/GlassDividerUI.uasset'
+[2023.03.20-19.50.47:934][950]LogFileHelpers: InternalPromptForCheckoutAndSave took 168 ms
+[2023.03.20-19.50.47:941][950]AssetCheck: New page: Asset Save: GlassDividerUI
+[2023.03.20-19.50.47:942][950]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/GlassDividerUI.GlassDividerUI
+[2023.03.20-19.53.38:438][462]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UIElements/MachineUi.MachineUi
+[2023.03.20-19.53.38:438][462]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.20-19.53.38:455][462]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.20-19.53.38:848][462]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.20-19.53.38:848][462]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.20-19.54.31:222][519]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.20-19.54.31:223][519]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.20-19.57.29:969][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.03.20-19.57.30:049][745]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Steven_Map_Auto1
+[2023.03.20-19.57.30:050][745]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/Steven_Map_Auto17BCF124B4861C6E65E5D9599F8C13B73.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/Autosaves/Game/Steven_Map_Auto1.umap'
+[2023.03.20-19.57.30:057][745]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Steven_Map' took 0.128
+[2023.03.20-19.57.30:057][745]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.128
+[2023.03.20-19.57.40:735][751]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerUI.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  On Clicked (RepairButton)  and was replaced as a Custom Event!
+[2023.03.20-19.57.48:149][495]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.20-19.57.48:149][495]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.20-19.57.48:149][495]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.20-19.58.01:891][978]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.20-19.58.01:943][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIElements/GlassDividerUI" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/GlassDividerUI.uasset" SILENT=true
+[2023.03.20-19.58.01:983][978]LogSavePackage: Moving output files for package: /Game/UIElements/GlassDividerUI
+[2023.03.20-19.58.01:984][978]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/GlassDividerUIAFE854D94ED8939231858B9CA4608DC4.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/GlassDividerUI.uasset'
+[2023.03.20-19.58.01:989][978]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 265 ms)
+[2023.03.20-19.58.01:995][978]AssetCheck: New page: Asset Save: GlassDividerUI
+[2023.03.20-19.58.01:995][978]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/GlassDividerUI.GlassDividerUI
+[2023.03.20-19.58.05:574][307]LogContentBrowser: Deferred new asset file creation: FurnaceRepairUI1
+[2023.03.20-19.58.05:587][307]LogContentBrowser: Creating deferred item: FurnaceRepairUI1
+[2023.03.20-19.58.05:606][308]LogContentBrowser: Renaming the item being created (Deferred Item: FurnaceRepairUI1).
+[2023.03.20-19.58.18:519][730]LogContentBrowser: Attempting asset rename: FurnaceRepairUI1 -> GlassDividerRepairUI
+[2023.03.20-19.58.18:590][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.03.20-19.58.18:621][730]LogContentBrowser: End creating deferred item FurnaceRepairUI1
+[2023.03.20-19.58.20:006][868]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI
+[2023.03.20-19.58.20:007][868]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.20-19.58.20:013][868]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.20-19.58.20:403][868]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.20-19.58.20:403][868]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.20-19.58.24:898][314]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.03.20-19.59.01:129][899]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.20-19.59.01:221][899]LogSavePackage: Moving output files for package: /Game/UIElements/GlassDividerRepairUI
+[2023.03.20-19.59.01:221][899]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/GlassDividerRepairUI09CB5DC94E1AFDA1694C24A34FA05507.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/GlassDividerRepairUI.uasset'
+[2023.03.20-19.59.01:226][899]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 362 ms)
+[2023.03.20-19.59.01:231][899]AssetCheck: New page: Asset Save: GlassDividerRepairUI
+[2023.03.20-19.59.01:231][899]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI
+[2023.03.20-19.59.08:384][621]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.20-19.59.08:384][621]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.20-19.59.08:385][621]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.20-19.59.41:982][245]BlueprintLog: New page: Compile GlassDividerUI
+[2023.03.20-19.59.41:987][245]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerUI.uasset: [Compiler] Can't connect pins  Target  and  Return Value : Machine Object Reference is not compatible with Glass Divider Object Reference.
+[2023.03.20-19.59.41:987][245]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerUI.uasset: [Compiler] Can't connect pins  Return Value  and  Target : Glass Divider Object Reference is not compatible with Machine Object Reference.
+[2023.03.20-19.59.41:988][245]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerUI.uasset: [Compiler] Invalid pin connection from ' Return Value ' to ' Target '. You may have changed the type after the connections were made.
+[2023.03.20-19.59.42:067][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.03.20-20.00.00:456][214]BlueprintLog: New page: Compile GlassDividerUI
+[2023.03.20-20.00.00:535][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.03.20-20.00.22:664][609]BlueprintLog: New page: Compile GlassDividerUI
+[2023.03.20-20.00.22:737][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.03.20-20.00.23:508][677]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.20-20.00.23:514][677]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.20-20.00.23:521][677]LogPlayLevel: [PlayLevel] Compiling GlassDividerRepairUI before play...
+[2023.03.20-20.00.23:531][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "RightSwitch3On-Panel" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get RightSwitch3On-Panel
+[2023.03.20-20.00.23:531][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "RightSwitch2On-Panel" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get RightSwitch2On-Panel
+[2023.03.20-20.00.23:531][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] On Clicked (RSwitch3OnButton)  does not have a valid matching component!
+[2023.03.20-20.00.23:531][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] On Clicked (RSwitch2OnButton)  does not have a valid matching component!
+[2023.03.20-20.00.23:531][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "RightSwitch3On-Panel" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get RightSwitch3On-Panel
+[2023.03.20-20.00.23:531][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "RightSwitch3On-Panel" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get RightSwitch3On-Panel
+[2023.03.20-20.00.23:532][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "RSwitch3Off-Panel" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get RSwitch3Off-Panel
+[2023.03.20-20.00.23:532][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "RSwitch3Off-Panel" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get RSwitch3Off-Panel
+[2023.03.20-20.00.23:532][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "RightSwitch2On-Panel" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get RightSwitch2On-Panel
+[2023.03.20-20.00.23:532][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "RightSwitch2On-Panel" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get RightSwitch2On-Panel
+[2023.03.20-20.00.23:532][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "RSwitch2Off-Panel" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get RSwitch2Off-Panel
+[2023.03.20-20.00.23:532][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "RSwitch2Off-Panel" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get RSwitch2Off-Panel
+[2023.03.20-20.00.23:532][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "RightSwitch1On-Panel_3" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get RightSwitch1On-Panel_3
+[2023.03.20-20.00.23:532][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "RightSwitch1On-Panel_3" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get RightSwitch1On-Panel_3
+[2023.03.20-20.00.23:532][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "RSwitch1Off-Panel" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get RSwitch1Off-Panel
+[2023.03.20-20.00.23:532][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "RSwitch1Off-Panel" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get RSwitch1Off-Panel
+[2023.03.20-20.00.23:533][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "RightSwitch1On-Panel_3" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get RightSwitch1On-Panel_3
+[2023.03.20-20.00.23:533][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] On Clicked (RSwitch1OnButton)  does not have a valid matching component!
+[2023.03.20-20.00.23:533][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "LeftSwitch3On-Panel" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get LeftSwitch3On-Panel
+[2023.03.20-20.00.23:533][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "LeftSwitch3On-Panel" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get LeftSwitch3On-Panel
+[2023.03.20-20.00.23:533][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "LSwitch3Off-Panel" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get LSwitch3Off-Panel
+[2023.03.20-20.00.23:533][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "LSwitch3Off-Panel" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get LSwitch3Off-Panel
+[2023.03.20-20.00.23:533][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "LeftSwitch3On-Panel" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get LeftSwitch3On-Panel
+[2023.03.20-20.00.23:533][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] On Clicked (LSwitch3OnButton)  does not have a valid matching component!
+[2023.03.20-20.00.23:534][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "LeftSwitch2On-Panel" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get LeftSwitch2On-Panel
+[2023.03.20-20.00.23:534][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "LeftSwitch2On-Panel" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get LeftSwitch2On-Panel
+[2023.03.20-20.00.23:534][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "LSwitch2Off-Panel" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get LSwitch2Off-Panel
+[2023.03.20-20.00.23:534][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "LSwitch2Off-Panel" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get LSwitch2Off-Panel
+[2023.03.20-20.00.23:534][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "LeftSwitch2On-Panel" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get LeftSwitch2On-Panel
+[2023.03.20-20.00.23:534][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] On Clicked (LSwitch2OnButton)  does not have a valid matching component!
+[2023.03.20-20.00.23:534][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "LeftSwitch1On-Panel" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get LeftSwitch1On-Panel
+[2023.03.20-20.00.23:534][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "LeftSwitch1On-Panel" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get LeftSwitch1On-Panel
+[2023.03.20-20.00.23:535][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "LSwitch1Off-Panel" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get LSwitch1Off-Panel
+[2023.03.20-20.00.23:535][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "LSwitch1Off-Panel" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get LSwitch1Off-Panel
+[2023.03.20-20.00.23:535][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "LeftSwitch1On-Panel" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get LeftSwitch1On-Panel
+[2023.03.20-20.00.23:535][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] On Pressed (LSwitch1OnButton)  does not have a valid matching component!
+[2023.03.20-20.00.23:535][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "RSwitch3Off-SN" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get RSwitch3Off-SN
+[2023.03.20-20.00.23:535][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "RSwitch3Off-SN" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get RSwitch3Off-SN
+[2023.03.20-20.00.23:535][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "RSwitch3On-SN" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get RSwitch3On-SN
+[2023.03.20-20.00.23:535][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "RSwitch3On-SN" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get RSwitch3On-SN
+[2023.03.20-20.00.23:535][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "RSwitch2Off-SN" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get RSwitch2Off-SN
+[2023.03.20-20.00.23:535][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "RSwitch2Off-SN" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get RSwitch2Off-SN
+[2023.03.20-20.00.23:536][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "RSwitch2On-SN" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get RSwitch2On-SN
+[2023.03.20-20.00.23:536][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "RSwitch2On-SN" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get RSwitch2On-SN
+[2023.03.20-20.00.23:536][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "RSwitch1Off-SN" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get RSwitch1Off-SN
+[2023.03.20-20.00.23:536][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "RSwitch1Off-SN" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get RSwitch1Off-SN
+[2023.03.20-20.00.23:536][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "RSwitch1On-SN" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get RSwitch1On-SN
+[2023.03.20-20.00.23:536][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "RSwitch1On-SN" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get RSwitch1On-SN
+[2023.03.20-20.00.23:536][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "LSwitch3Off-SN" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get LSwitch3Off-SN
+[2023.03.20-20.00.23:536][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "LeftSwitch3On-SN" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get LeftSwitch3On-SN
+[2023.03.20-20.00.23:536][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "LSwitch3Off-SN" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get LSwitch3Off-SN
+[2023.03.20-20.00.23:536][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "LeftSwitch3On-SN" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get LeftSwitch3On-SN
+[2023.03.20-20.00.23:537][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "LSwitch2Off-SN" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get LSwitch2Off-SN
+[2023.03.20-20.00.23:537][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "LeftSwitch2on-SN" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get LeftSwitch2on-SN
+[2023.03.20-20.00.23:537][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "LSwitch2Off-SN" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get LSwitch2Off-SN
+[2023.03.20-20.00.23:537][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "LeftSwitch2on-SN" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get LeftSwitch2on-SN
+[2023.03.20-20.00.23:537][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "LSwitch1Off-SN" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get LSwitch1Off-SN
+[2023.03.20-20.00.23:537][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "LeftSwitch1On-SN" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get LeftSwitch1On-SN
+[2023.03.20-20.00.23:537][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "LeftSwitch1On-SN" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get LeftSwitch1On-SN
+[2023.03.20-20.00.23:537][677]LogBlueprint: Warning: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] Could not find a variable named "LSwitch1Off-SN" in 'GlassDividerRepairUI_C'.
+Make sure 'GlassDividerRepairUI_C' has been compiled for  Get LSwitch1Off-SN
+[2023.03.20-20.00.23:539][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  LSwitch 1Off- SN  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:540][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  Left Switch 1On- SN  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:540][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  Left Switch 1On- SN  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:540][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  LSwitch 1Off- SN  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:540][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  Left Switch 2on- SN  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:540][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  LSwitch 2Off- SN  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:540][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  Left Switch 2on- SN  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:540][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  LSwitch 2Off- SN  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:540][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  Left Switch 3On- SN  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:540][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  LSwitch 3Off- SN  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:540][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  Left Switch 3On- SN  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:541][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  LSwitch 3Off- SN  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:541][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  RSwitch 1On- SN  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:541][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  RSwitch 1On- SN  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:541][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  RSwitch 1Off- SN  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:541][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  RSwitch 1Off- SN  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:541][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  RSwitch 2On- SN  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:541][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  RSwitch 2On- SN  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:541][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  RSwitch 2Off- SN  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:541][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  RSwitch 2Off- SN  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:541][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  RSwitch 3On- SN  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:541][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  RSwitch 3On- SN  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:542][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  RSwitch 3Off- SN  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:542][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  RSwitch 3Off- SN  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:542][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  Left Switch 1On- Panel  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:542][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  LSwitch 1Off- Panel  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:542][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  LSwitch 1Off- Panel  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:542][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  Left Switch 1On- Panel  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:542][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  Left Switch 1On- Panel  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:542][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  Left Switch 2On- Panel  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:542][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  LSwitch 2Off- Panel  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:542][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  LSwitch 2Off- Panel  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:542][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  Left Switch 2On- Panel  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:543][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  Left Switch 2On- Panel  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:543][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  Left Switch 3On- Panel  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:543][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  LSwitch 3Off- Panel  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:543][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  LSwitch 3Off- Panel  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:543][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  Left Switch 3On- Panel  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:543][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  Left Switch 3On- Panel  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:543][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  Right Switch 1On- Panel 3  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:543][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  RSwitch 1Off- Panel  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:543][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  RSwitch 1Off- Panel  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:543][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  Right Switch 1On- Panel 3  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:544][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  Right Switch 1On- Panel 3  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:544][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  RSwitch 2Off- Panel  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:544][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  RSwitch 2Off- Panel  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:544][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  Right Switch 2On- Panel  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:544][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  Right Switch 2On- Panel  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:544][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  RSwitch 3Off- Panel  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:544][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  RSwitch 3Off- Panel  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:544][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  Right Switch 3On- Panel  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:544][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  Right Switch 3On- Panel  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:544][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  Right Switch 2On- Panel  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:544][677]LogBlueprint: Error: [AssetLog] C:\Users\Nik\Documents\GitHub\CPI441_Omniverse\Omniverse\Content\UIElements\GlassDividerRepairUI.uasset: [Compiler] The property associated with  Right Switch 3On- Panel  could not be found in '/Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI_C'
+[2023.03.20-20.00.23:634][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.03.20-20.00.23:635][677]LogPlayLevel: PlayLevel: Blueprint regeneration took 120 ms (1 blueprints)
+[2023.03.20-20.00.23:635][677]BlueprintLog: Warning: Blueprint failed to compile:  GlassDividerRepairUI
+[2023.03.20-20.00.26:797][677]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.03.20-20.00.30:381][ 73]LogSlate: Window 'Message Log' being destroyed
+[2023.03.20-20.00.30:386][ 73]LogSlate: Window 'Message Log' being destroyed
+[2023.03.20-20.00.51:174][174]BlueprintLog: New page: Compile GlassDividerRepairUI
+[2023.03.20-20.00.51:235][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.03.20-20.00.53:583][435]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.20-20.00.53:641][435]LogSavePackage: Moving output files for package: /Game/UIElements/GlassDividerRepairUI
+[2023.03.20-20.00.53:641][435]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/GlassDividerRepairUIDEFB3C2C4112E020AAAB6B94235F49DE.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/GlassDividerRepairUI.uasset'
+[2023.03.20-20.00.53:646][435]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 425 ms)
+[2023.03.20-20.00.53:651][435]AssetCheck: New page: Asset Save: GlassDividerRepairUI
+[2023.03.20-20.00.53:651][435]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI
+[2023.03.20-20.00.56:043][696]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.20-20.00.56:048][696]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.20-20.00.56:048][696]PIE: New page: PIE session: Steven_Map (Mar 20, 2023, 6:00:56 AM)
+[2023.03.20-20.00.56:048][696]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Steven_Map
+[2023.03.20-20.00.56:084][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035325s)
+[2023.03.20-20.00.56:084][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Steven_Map.Steven_Map to /Game/UEDPIE_0_Steven_Map.Steven_Map (0.035350s)
+[2023.03.20-20.00.56:084][696]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.20-20.00.56:084][696]LogAIModule: Creating AISystem for world Steven_Map
+[2023.03.20-20.00.56:085][696]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2023.03.20-20.00.56:126][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.03.20-20.00.56:127][696]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.03.20-20.00.56:127][696]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.20-20.00.56:127][696]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.20-20.00.56:127][696]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.20-20.00.56:127][696]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.20-20.00.56:127][696]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.20-20.00.56:127][696]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.20-20.00.56:127][696]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.20-20.00.56:127][696]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.20-20.00.56:128][696]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.20-20.00.56:128][696]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.20-20.00.56:128][696]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.20-20.00.56:130][696]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.20-20.00.56:153][696]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.20-20.00.56:154][696]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.20-20.00.56:154][696]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.20-20.00.56:154][696]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.20-20.00.56:154][696]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.03.20-20.00.56:154][696]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.03.20-20.00.56:157][696]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.03.20-20.00.56:157][696]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.03.20-20.00.56:157][696]LogInit: FAudioDevice initialized.
+[2023.03.20-20.00.56:157][696]LogAudio: Display: Audio Device (ID: 5) registered with world 'Steven_Map'.
+[2023.03.20-20.00.56:186][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-20.00.56:186][696]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.20-20.00.56:206][696]LogWorld: Bringing World /Game/UEDPIE_0_Steven_Map.Steven_Map up for play (max tick rate 0) at 2023.03.20-13.00.56
+[2023.03.20-20.00.56:211][696]LogWorld: Bringing up level for play took: 0.024608
+[2023.03.20-20.00.56:213][696]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.03.20-20.00.56:218][696]PIE: Server logged in
+[2023.03.20-20.00.56:221][696]PIE: Play in editor total start time 0.172 seconds.
+[2023.03.20-20.00.56:245][696]LogViewport: Scene viewport resized to 1594x820, mode Windowed.
+[2023.03.20-20.01.08:275][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-20.01.08:275][722]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Steven_Map
+[2023.03.20-20.01.08:276][722]LogSlate: Window 'Omniverse Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.03.20-20.01.08:281][722]LogWorld: UWorld::CleanupWorld for Steven_Map, bSessionEnded=true, bCleanupResources=true
+[2023.03.20-20.01.08:283][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-20.01.08:286][722]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.20-20.01.08:291][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-20.01.08:331][722]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.03.20-20.01.08:333][722]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.03.20-20.01.08:342][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.03.20-20.01.08:366][723]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.03.20-20.01.16:827][697]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.20-20.01.16:871][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIElements/GlassDividerUI" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/GlassDividerUI.uasset" SILENT=true
+[2023.03.20-20.01.16:909][697]LogSavePackage: Moving output files for package: /Game/UIElements/GlassDividerUI
+[2023.03.20-20.01.16:909][697]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/GlassDividerUI6249BCA04AF5761DE105F18AD5F43BA1.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/GlassDividerUI.uasset'
+[2023.03.20-20.01.16:914][697]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 512 ms)
+[2023.03.20-20.01.16:920][697]AssetCheck: New page: Asset Save: GlassDividerUI
+[2023.03.20-20.01.16:920][697]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/GlassDividerUI.GlassDividerUI
+[2023.03.20-20.01.36:513][ 23]BlueprintLog: New page: Compile MachineUi
+[2023.03.20-20.01.36:585][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.03.20-20.01.37:276][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.20-20.01.37:320][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIElements/MachineUi" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/MachineUi.uasset" SILENT=true
+[2023.03.20-20.01.37:342][ 91]LogSavePackage: Moving output files for package: /Game/UIElements/MachineUi
+[2023.03.20-20.01.37:342][ 91]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/MachineUi06DE95EB4D72D241C39E028807B98B7A.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/MachineUi.uasset'
+[2023.03.20-20.01.37:347][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 584 ms)
+[2023.03.20-20.01.37:352][ 91]AssetCheck: New page: Asset Save: MachineUi
+[2023.03.20-20.01.37:352][ 91]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/MachineUi.MachineUi
+[2023.03.20-20.01.38:033][170]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.20-20.01.38:038][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.20-20.01.38:038][170]PIE: New page: PIE session: Steven_Map (Mar 20, 2023, 6:01:38 AM)
+[2023.03.20-20.01.38:038][170]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Steven_Map
+[2023.03.20-20.01.38:073][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034898s)
+[2023.03.20-20.01.38:073][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Steven_Map.Steven_Map to /Game/UEDPIE_0_Steven_Map.Steven_Map (0.034923s)
+[2023.03.20-20.01.38:073][170]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.20-20.01.38:074][170]LogAIModule: Creating AISystem for world Steven_Map
+[2023.03.20-20.01.38:074][170]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2023.03.20-20.01.38:115][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.03.20-20.01.38:117][170]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.03.20-20.01.38:117][170]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.20-20.01.38:117][170]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.20-20.01.38:117][170]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.20-20.01.38:117][170]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.20-20.01.38:117][170]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.20-20.01.38:117][170]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.20-20.01.38:117][170]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.20-20.01.38:117][170]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.20-20.01.38:117][170]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.20-20.01.38:117][170]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.20-20.01.38:117][170]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.20-20.01.38:119][170]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.20-20.01.38:140][170]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.20-20.01.38:140][170]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.20-20.01.38:140][170]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.20-20.01.38:140][170]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.20-20.01.38:141][170]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.03.20-20.01.38:141][170]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.03.20-20.01.38:143][170]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.03.20-20.01.38:143][170]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.03.20-20.01.38:143][170]LogInit: FAudioDevice initialized.
+[2023.03.20-20.01.38:143][170]LogAudio: Display: Audio Device (ID: 6) registered with world 'Steven_Map'.
+[2023.03.20-20.01.38:201][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-20.01.38:201][170]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.20-20.01.38:221][170]LogWorld: Bringing World /Game/UEDPIE_0_Steven_Map.Steven_Map up for play (max tick rate 0) at 2023.03.20-13.01.38
+[2023.03.20-20.01.38:226][170]LogWorld: Bringing up level for play took: 0.024525
+[2023.03.20-20.01.38:228][170]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.03.20-20.01.38:233][170]PIE: Server logged in
+[2023.03.20-20.01.38:235][170]PIE: Play in editor total start time 0.197 seconds.
+[2023.03.20-20.01.38:254][170]LogViewport: Scene viewport resized to 1594x820, mode Windowed.
+[2023.03.20-20.02.29:754][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-20.02.31:025][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-20.02.31:025][187]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Steven_Map
+[2023.03.20-20.02.31:025][187]LogSlate: Window 'Omniverse Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.03.20-20.02.31:029][187]LogWorld: UWorld::CleanupWorld for Steven_Map, bSessionEnded=true, bCleanupResources=true
+[2023.03.20-20.02.31:032][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-20.02.31:034][187]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.20-20.02.31:039][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-20.02.31:080][187]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.03.20-20.02.31:081][187]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.03.20-20.02.31:091][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.03.20-20.02.31:110][188]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.03.20-20.22.12:652][587]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.20-20.22.12:652][587]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.20-20.22.55:633][892]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UIElements/FurnaceRepairUI.FurnaceRepairUI
+[2023.03.20-20.22.55:634][892]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.20-20.22.55:649][892]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.20-20.22.56:037][892]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.20-20.22.56:037][892]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.20-20.23.44:603][760]BlueprintLog: New page: Compile GlassDividerRepairUI
+[2023.03.20-20.23.44:675][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.03.20-20.23.45:333][825]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.20-20.23.45:396][825]LogSavePackage: Moving output files for package: /Game/UIElements/GlassDividerRepairUI
+[2023.03.20-20.23.45:397][825]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/GlassDividerRepairUI6B45C91148EA6932FCF74DAA13FAC340.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/GlassDividerRepairUI.uasset'
+[2023.03.20-20.23.45:403][825]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 654 ms)
+[2023.03.20-20.23.45:409][825]AssetCheck: New page: Asset Save: GlassDividerRepairUI
+[2023.03.20-20.23.45:409][825]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI
+[2023.03.20-20.23.46:787][982]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.20-20.23.46:792][982]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.20-20.23.46:792][982]PIE: New page: PIE session: Steven_Map (Mar 20, 2023, 6:23:46 AM)
+[2023.03.20-20.23.46:793][982]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Steven_Map
+[2023.03.20-20.23.46:828][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035521s)
+[2023.03.20-20.23.46:828][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Steven_Map.Steven_Map to /Game/UEDPIE_0_Steven_Map.Steven_Map (0.035547s)
+[2023.03.20-20.23.46:828][982]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.20-20.23.46:829][982]LogAIModule: Creating AISystem for world Steven_Map
+[2023.03.20-20.23.46:829][982]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2023.03.20-20.23.46:876][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.03.20-20.23.46:877][982]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.03.20-20.23.46:877][982]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.20-20.23.46:877][982]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.20-20.23.46:877][982]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.20-20.23.46:877][982]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.20-20.23.46:877][982]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.20-20.23.46:878][982]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.20-20.23.46:878][982]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.20-20.23.46:878][982]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.20-20.23.46:878][982]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.20-20.23.46:878][982]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.20-20.23.46:878][982]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.20-20.23.46:880][982]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.20-20.23.46:903][982]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.20-20.23.46:903][982]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.20-20.23.46:903][982]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.20-20.23.46:903][982]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.20-20.23.46:903][982]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.03.20-20.23.46:903][982]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.03.20-20.23.46:906][982]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.03.20-20.23.46:906][982]LogInit: FAudioDevice initialized.
+[2023.03.20-20.23.46:906][982]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.03.20-20.23.46:906][982]LogAudio: Display: Audio Device (ID: 7) registered with world 'Steven_Map'.
+[2023.03.20-20.23.46:956][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-20.23.46:957][982]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.20-20.23.46:976][982]LogWorld: Bringing World /Game/UEDPIE_0_Steven_Map.Steven_Map up for play (max tick rate 0) at 2023.03.20-13.23.46
+[2023.03.20-20.23.46:981][982]LogWorld: Bringing up level for play took: 0.024762
+[2023.03.20-20.23.46:983][982]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2023.03.20-20.23.46:987][982]PIE: Server logged in
+[2023.03.20-20.23.46:989][982]PIE: Play in editor total start time 0.197 seconds.
+[2023.03.20-20.23.47:011][982]LogViewport: Scene viewport resized to 1594x820, mode Windowed.
+[2023.03.20-20.24.01:636][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-20.24.03:143][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.20-20.24.03:143][339]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Steven_Map
+[2023.03.20-20.24.03:144][339]LogSlate: Window 'Omniverse Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.03.20-20.24.03:149][339]LogWorld: UWorld::CleanupWorld for Steven_Map, bSessionEnded=true, bCleanupResources=true
+[2023.03.20-20.24.03:152][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-20.24.03:154][339]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.20-20.24.03:159][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.20-20.24.03:206][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.03.20-20.24.03:208][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.03.20-20.24.03:217][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.03.20-20.24.03:247][340]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.03.20-20.24.15:076][745]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.20-20.24.15:076][745]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.20-20.24.42:398][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.03.20-20.24.42:399][472]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Steven_Map' took 0.056
+[2023.03.20-20.24.42:400][472]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UIElements/GlassDividerRepairUI] ([2] browsable assets)...
+[2023.03.20-20.24.42:400][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIElements/GlassDividerRepairUI]
+[2023.03.20-20.24.42:404][472]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UIElements/GlassDividerRepairUI_Auto2
+[2023.03.20-20.24.42:404][472]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/GlassDividerRepairUI_Auto231E0BF1B4E888C2D39A859B92D8D8B30.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/Autosaves/Game/UIElements/GlassDividerRepairUI_Auto2.uasset'
+[2023.03.20-20.24.42:405][472]LogFileHelpers: Auto-saving content packages took 0.006
+[2023.03.20-20.25.22:177][691]LogInterchangeEngine: [Pending] Importing
+[2023.03.20-20.25.22:201][692]LogInterchangeEngine: [Pending] Importing
+[2023.03.20-20.25.22:210][692]LogTexture: Display: Building textures: /Game/UIElements/3x3_grud.3x3_grud (TFO_AutoDXT, 564x564 x1x1x1) (Required Memory Estimate: 53.189819 MB), EncodeSpeed: Fast
+[2023.03.20-20.25.22:220][692]LogInterchangeEngine: [Success] Import Done
+[2023.03.20-20.25.22:267][693]LogInterchangeEngine: [Success] Import Done
+[2023.03.20-20.26.35:130][845]LogInterchangeEngine: [Pending] Importing
+[2023.03.20-20.26.35:137][845]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.03.20-20.26.35:148][846]LogInterchangeEngine: [Pending] Importing
+[2023.03.20-20.26.35:155][846]LogTexture: Display: Building textures: /Game/UIElements/3x3grid.3x3grid (TFO_AutoDXT, 1280x1280 x1x1x1) (Required Memory Estimate: 127.145823 MB), EncodeSpeed: Fast
+[2023.03.20-20.26.35:165][846]LogInterchangeEngine: [Success] Import Done
+[2023.03.20-20.26.35:215][847]LogInterchangeEngine: [Success] Import Done
+[2023.03.20-20.26.37:815][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.03.20-20.26.39:265][ 75]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.20-20.26.39:296][ 75]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/UIElements/3x3_grud.3x3_grud
+	Asset Type: Texture2D
+[2023.03.20-20.26.39:739][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.03.20-20.26.39:782][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.03.20-20.26.39:825][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.03.20-20.29.30:147][720]LogInterchangeEngine: [Pending] Importing
+[2023.03.20-20.29.30:153][720]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.03.20-20.29.30:163][721]LogTexture: Display: Building textures: /Game/UIElements/redsquare.redsquare (TFO_AutoDXT, 400x400 x1x1x1) (Required Memory Estimate: 25.29024 MB), EncodeSpeed: Fast
+[2023.03.20-20.29.30:177][721]LogInterchangeEngine: [Pending] Importing
+[2023.03.20-20.29.30:187][721]LogInterchangeEngine: [Success] Import Done
+[2023.03.20-20.29.30:244][722]LogInterchangeEngine: [Success] Import Done
+[2023.03.20-20.29.34:639][ 66]LogInterchangeEngine: [Pending] Importing
+[2023.03.20-20.29.34:648][ 66]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.03.20-20.29.34:656][ 67]LogTexture: Display: Building textures: /Game/UIElements/graysquare.graysquare (TFO_AutoDXT, 800x800 x1x1x1) (Required Memory Estimate: 83.981761 MB), EncodeSpeed: Fast
+[2023.03.20-20.29.34:677][ 67]LogInterchangeEngine: [Pending] Importing
+[2023.03.20-20.29.34:684][ 67]LogInterchangeEngine: [Success] Import Done
+[2023.03.20-20.29.34:744][ 68]LogInterchangeEngine: [Success] Import Done
+[2023.03.20-20.32.54:515][835]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.20-20.32.54:543][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIElements/redsquare" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/redsquare.uasset" SILENT=true
+[2023.03.20-20.32.54:549][835]LogSavePackage: Moving output files for package: /Game/UIElements/redsquare
+[2023.03.20-20.32.54:549][835]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/redsquare45B6E16548569B438FC9D19FE63B66D5.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/redsquare.uasset'
+[2023.03.20-20.32.54:556][835]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 695 ms)
+[2023.03.20-20.32.54:561][835]AssetCheck: New page: Asset Save: redsquare
+[2023.03.20-20.32.54:561][835]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UIElements/redsquare.redsquare
+[2023.03.20-20.33.10:870][687]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.20-20.33.10:926][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIElements/graysquare" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/graysquare.uasset" SILENT=true
+[2023.03.20-20.33.10:937][687]LogSavePackage: Moving output files for package: /Game/UIElements/graysquare
+[2023.03.20-20.33.10:937][687]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/graysquareFC92ED6842CF79FE6218AE8858950253.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/graysquare.uasset'
+[2023.03.20-20.33.10:943][687]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 768 ms)
+[2023.03.20-20.33.10:948][687]AssetCheck: New page: Asset Save: graysquare
+[2023.03.20-20.33.10:948][687]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UIElements/graysquare.graysquare
+[2023.03.20-20.34.57:318][735]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.20-20.34.57:318][735]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.20-20.37.16:566][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.03.20-20.37.16:567][354]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Steven_Map' took 0.061
+[2023.03.20-20.37.16:567][354]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIElements/GlassDividerRepairUI] ([2] browsable assets)...
+[2023.03.20-20.37.16:569][354]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI]
+[2023.03.20-20.37.16:570][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIElements/GlassDividerRepairUI]
+[2023.03.20-20.37.16:575][354]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UIElements/GlassDividerRepairUI_Auto3
+[2023.03.20-20.37.16:575][354]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/GlassDividerRepairUI_Auto371902D5348C4BC70CBB840B6D0FD020D.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/Autosaves/Game/UIElements/GlassDividerRepairUI_Auto3.uasset'
+[2023.03.20-20.37.16:576][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UIElements/3x3grid] ([1] browsable assets)...
+[2023.03.20-20.37.16:577][354]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UIElements/3x3grid.3x3grid]
+[2023.03.20-20.37.16:577][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIElements/3x3grid]
+[2023.03.20-20.37.16:581][354]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UIElements/3x3grid_Auto3
+[2023.03.20-20.37.16:582][354]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/3x3grid_Auto3273EE74343D527D3DCC079BFAA6DF431.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/Autosaves/Game/UIElements/3x3grid_Auto3.uasset'
+[2023.03.20-20.37.16:582][354]LogFileHelpers: Auto-saving content packages took 0.015
+[2023.03.20-20.37.34:411][167]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.20-20.37.34:475][167]LogSavePackage: Moving output files for package: /Game/UIElements/GlassDividerRepairUI
+[2023.03.20-20.37.34:476][167]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/GlassDividerRepairUI1C2B67B142C517EB367261A62D09CED8.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/GlassDividerRepairUI.uasset'
+[2023.03.20-20.37.34:482][167]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 838 ms)
+[2023.03.20-20.37.34:487][167]AssetCheck: New page: Asset Save: GlassDividerRepairUI
+[2023.03.20-20.37.34:487][167]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI
+[2023.03.20-20.38.45:472][701]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.20-20.38.45:500][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIElements/3x3grid" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/3x3grid.uasset" SILENT=true
+[2023.03.20-20.38.45:525][701]LogSavePackage: Moving output files for package: /Game/UIElements/3x3grid
+[2023.03.20-20.38.45:525][701]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/3x3grid869FD18944DEEE98DE1E6E8866B01E55.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/3x3grid.uasset'
+[2023.03.20-20.38.45:532][701]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 898 ms)
+[2023.03.20-20.38.45:537][701]AssetCheck: New page: Asset Save: 3x3grid
+[2023.03.20-20.38.45:537][701]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UIElements/3x3grid.3x3grid
+[2023.03.20-20.38.55:778][705]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/BP_PlayerHUD.BP_PlayerHUD
+[2023.03.20-20.38.55:778][705]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.20-20.38.55:785][705]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.20-20.38.56:165][705]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.20-20.38.56:165][705]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.20-20.39.21:518][643]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UI_Blueprints/BP_Chute.BP_Chute
+[2023.03.20-20.39.21:518][643]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.20-20.39.21:524][643]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.20-20.39.21:941][643]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.20-20.39.21:941][643]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.20-20.39.50:521][281]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.20-20.39.50:522][281]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.20-20.39.50:522][281]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.20-20.40.19:628][989]BlueprintLog: New page: Compile BP_Chute
+[2023.03.20-20.40.19:719][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.03.20-20.41.18:980][822]BlueprintLog: New page: Compile BP_Chute
+[2023.03.20-20.41.19:068][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.03.20-20.42.10:005][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.20-20.42.10:069][ 29]LogSavePackage: Moving output files for package: /Game/UIElements/GlassDividerRepairUI
+[2023.03.20-20.42.10:069][ 29]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/GlassDividerRepairUIAF332B524CF6389190E9FA92C7D3EEC0.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/GlassDividerRepairUI.uasset'
+[2023.03.20-20.42.10:077][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 970 ms)
+[2023.03.20-20.42.10:082][ 29]AssetCheck: New page: Asset Save: GlassDividerRepairUI
+[2023.03.20-20.42.10:082][ 29]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI
+[2023.03.20-20.42.18:403][809]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.20-20.42.18:463][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Blueprints/BP_Chute" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UI/UI_Blueprints/BP_Chute.uasset" SILENT=true
+[2023.03.20-20.42.18:479][809]LogSavePackage: Moving output files for package: /Game/UI/UI_Blueprints/BP_Chute
+[2023.03.20-20.42.18:480][809]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/BP_Chute150F58B446628B7841D398A53FF50342.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UI/UI_Blueprints/BP_Chute.uasset'
+[2023.03.20-20.42.18:484][809]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 1.05 sec)
+[2023.03.20-20.42.18:490][809]AssetCheck: New page: Asset Save: BP_Chute
+[2023.03.20-20.42.18:490][809]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UI_Blueprints/BP_Chute.BP_Chute
