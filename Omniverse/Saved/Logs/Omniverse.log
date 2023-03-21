@@ -2001,3 +2001,21 @@ Script Stack (0 frames) :
 [2023.03.21-04.08.06:638][971]LogStats:                SubmitErrorReport -  0.000 s
 [2023.03.21-04.08.08:390][971]LogStats:                    SendNewReport -  1.752 s
 [2023.03.21-04.08.08:390][971]LogStats:             FDebug::EnsureFailed -  1.868 s
+[2023.03.21-04.12.45:096][418]BlueprintLog: New page: Compile Chute_Sand_Blueprint
+[2023.03.21-04.12.45:164][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.03.21-04.12.46:741][511]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.21-04.12.46:794][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Blueprints/Chute_Sand_Blueprint" FILE="../../../../../../GameProjects/CPI441_Omniverse/Omniverse/Content/UI/UI_Blueprints/Chute_Sand_Blueprint.uasset" SILENT=true
+[2023.03.21-04.12.46:798][511]LogSavePackage: Moving output files for package: /Game/UI/UI_Blueprints/Chute_Sand_Blueprint
+[2023.03.21-04.12.46:799][511]LogSavePackage: Moving '../../../../../../GameProjects/CPI441_Omniverse/Omniverse/Saved/Chute_Sand_Blueprint757F241F4D6EF49C9FEAC987992A7BBD.tmp' to '../../../../../../GameProjects/CPI441_Omniverse/Omniverse/Content/UI/UI_Blueprints/Chute_Sand_Blueprint.uasset'
+[2023.03.21-04.12.46:804][511]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 646 ms)
+[2023.03.21-04.12.46:813][511]AssetCheck: New page: Asset Save: Chute_Sand_Blueprint
+[2023.03.21-04.12.46:813][511]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/UI_Blueprints/Chute_Sand_Blueprint.Chute_Sand_Blueprint
+[2023.03.21-04.12.54:529][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.21-04.12.54:559][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Steven_Map" FILE="../../../../../../GameProjects/CPI441_Omniverse/Omniverse/Content/Steven_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.21-04.12.54:601][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.03.21-04.12.54:690][961]LogSavePackage: Moving output files for package: /Game/Steven_Map
+[2023.03.21-04.12.54:690][961]LogSavePackage: Moving '../../../../../../GameProjects/CPI441_Omniverse/Omniverse/Saved/Steven_Map90820BE844839C65EDA94F837FD5C61B.tmp' to '../../../../../../GameProjects/CPI441_Omniverse/Omniverse/Content/Steven_Map.umap'
+[2023.03.21-04.12.54:703][961]LogFileHelpers: Saving map 'Steven_Map' took 0.144
+[2023.03.21-04.12.54:709][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 180 ms (total: 827 ms)
+[2023.03.21-04.12.54:716][961]AssetCheck: New page: Asset Save: Steven_Map
+[2023.03.21-04.12.54:716][961]LogContentValidation: Display: Validating /Script/Engine.World /Game/Steven_Map.Steven_Map
