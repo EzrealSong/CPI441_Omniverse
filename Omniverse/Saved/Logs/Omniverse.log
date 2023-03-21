@@ -13409,3 +13409,317 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.21-20.28.13:438][697]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/Steven_Map_Auto6154051F9484C6BEEF9433182A4E47CF5.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/Autosaves/Game/Steven_Map_Auto6.umap'
 [2023.03.21-20.28.13:447][697]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Steven_Map' took 0.159
 [2023.03.21-20.28.13:447][697]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.159
+[2023.03.21-20.30.55:455][341]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.21-20.30.55:520][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIElements/GlassDividerUI" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/GlassDividerUI.uasset" SILENT=true
+[2023.03.21-20.30.55:570][341]LogSavePackage: Moving output files for package: /Game/UIElements/GlassDividerUI
+[2023.03.21-20.30.55:570][341]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/GlassDividerUIB05BAC7F45EFD41D81F459BF75255145.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/GlassDividerUI.uasset'
+[2023.03.21-20.30.55:578][341]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 3.22 sec)
+[2023.03.21-20.30.55:586][341]AssetCheck: New page: Asset Save: GlassDividerUI
+[2023.03.21-20.30.55:586][341]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/GlassDividerUI.GlassDividerUI
+[2023.03.21-20.30.57:711][490]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.21-20.30.57:790][490]LogSavePackage: Moving output files for package: /Game/UIElements/GlassDividerRepairUI
+[2023.03.21-20.30.57:790][490]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/GlassDividerRepairUI56B3B55F4BB23C2FA38591B8324891FF.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/GlassDividerRepairUI.uasset'
+[2023.03.21-20.30.57:797][490]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 3.30 sec)
+[2023.03.21-20.30.57:804][490]AssetCheck: New page: Asset Save: GlassDividerRepairUI
+[2023.03.21-20.30.57:804][490]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI
+[2023.03.21-20.31.06:950][183]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.21-20.31.07:021][183]LogSavePackage: Moving output files for package: /Game/UIElements/GlassDividerRepairUI
+[2023.03.21-20.31.07:022][183]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/GlassDividerRepairUI139823834077AEBE5A606FACC9761A70.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/GlassDividerRepairUI.uasset'
+[2023.03.21-20.31.07:028][183]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 3.38 sec)
+[2023.03.21-20.31.07:035][183]AssetCheck: New page: Asset Save: GlassDividerRepairUI
+[2023.03.21-20.31.07:035][183]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI
+[2023.03.21-20.32.12:951][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.21-20.32.13:040][169]LogSavePackage: Moving output files for package: /Game/UIElements/GlassDividerRepairUI
+[2023.03.21-20.32.13:041][169]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/GlassDividerRepairUI2FD0F3C24AE6B97C19025C8C0E6BA63F.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/GlassDividerRepairUI.uasset'
+[2023.03.21-20.32.13:048][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 3.48 sec)
+[2023.03.21-20.32.13:056][169]AssetCheck: New page: Asset Save: GlassDividerRepairUI
+[2023.03.21-20.32.13:056][169]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI
+[2023.03.21-20.32.13:681][226]BlueprintLog: New page: Compile GlassDividerRepairUI
+[2023.03.21-20.32.13:865][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.03.21-20.32.14:150][227]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.21-20.32.14:239][227]LogSavePackage: Moving output files for package: /Game/UIElements/GlassDividerRepairUI
+[2023.03.21-20.32.14:239][227]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/GlassDividerRepairUID439952740F63A7003359F898E91D97D.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/GlassDividerRepairUI.uasset'
+[2023.03.21-20.32.14:246][227]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 3.57 sec)
+[2023.03.21-20.32.14:253][227]AssetCheck: New page: Asset Save: GlassDividerRepairUI
+[2023.03.21-20.32.14:253][227]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI
+[2023.03.21-20.32.18:526][556]BlueprintLog: New page: Compile GlassDividerRepairUI
+[2023.03.21-20.32.18:639][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.03.21-20.32.19:300][587]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.21-20.32.19:389][587]LogSavePackage: Moving output files for package: /Game/UIElements/GlassDividerRepairUI
+[2023.03.21-20.32.19:390][587]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/GlassDividerRepairUI418ED7BD41BD142242ADC59F0D648F70.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/GlassDividerRepairUI.uasset'
+[2023.03.21-20.32.19:397][587]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 3.67 sec)
+[2023.03.21-20.32.19:404][587]AssetCheck: New page: Asset Save: GlassDividerRepairUI
+[2023.03.21-20.32.19:404][587]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI
+[2023.03.21-20.32.20:517][679]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.21-20.32.20:523][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.21-20.32.20:523][679]PIE: New page: PIE session: Steven_Map (Mar 21, 2023, 6:32:20 AM)
+[2023.03.21-20.32.20:523][679]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Steven_Map
+[2023.03.21-20.32.20:558][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035556s)
+[2023.03.21-20.32.20:558][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Steven_Map.Steven_Map to /Game/UEDPIE_0_Steven_Map.Steven_Map (0.035583s)
+[2023.03.21-20.32.20:559][679]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.21-20.32.20:559][679]LogAIModule: Creating AISystem for world Steven_Map
+[2023.03.21-20.32.20:559][679]LogPlayLevel: PIE: World Init took: (0.000882s)
+[2023.03.21-20.32.20:629][679]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.03.21-20.32.20:632][679]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2023.03.21-20.32.20:632][679]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.21-20.32.20:632][679]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.21-20.32.20:632][679]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.21-20.32.20:632][679]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.21-20.32.20:632][679]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.21-20.32.20:632][679]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.21-20.32.20:632][679]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.21-20.32.20:632][679]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.21-20.32.20:633][679]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.21-20.32.20:633][679]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.21-20.32.20:633][679]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.21-20.32.20:635][679]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.21-20.32.20:656][679]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.21-20.32.20:656][679]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.21-20.32.20:656][679]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.21-20.32.20:656][679]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.21-20.32.20:657][679]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2023.03.21-20.32.20:657][679]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2023.03.21-20.32.20:659][679]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2023.03.21-20.32.20:659][679]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2023.03.21-20.32.20:659][679]LogInit: FAudioDevice initialized.
+[2023.03.21-20.32.20:659][679]LogAudio: Display: Audio Device (ID: 25) registered with world 'Steven_Map'.
+[2023.03.21-20.32.20:664][679]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.21-20.32.20:684][679]LogWorld: Bringing World /Game/UEDPIE_0_Steven_Map.Steven_Map up for play (max tick rate 0) at 2023.03.21-13.32.20
+[2023.03.21-20.32.20:689][679]LogWorld: Bringing up level for play took: 0.025186
+[2023.03.21-20.32.20:691][679]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2023.03.21-20.32.20:693][679]LogBlueprintUserMessages: [BP_Chute_C_0] Hello2
+[2023.03.21-20.32.20:694][679]PIE: Server logged in
+[2023.03.21-20.32.20:694][679]PIE: Play in editor total start time 0.172 seconds.
+[2023.03.21-20.32.21:583][740]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.22:585][838]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.23:578][937]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.24:578][ 36]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.25:586][135]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.26:580][233]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.27:587][339]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.28:578][456]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.29:579][576]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.30:579][696]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.31:245][776]LogBlueprintUserMessages: [GlassDividerUI_C_0] false
+[2023.03.21-20.32.31:579][816]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.32:579][936]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.33:579][ 56]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.34:578][176]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.35:578][296]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.36:579][416]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.37:579][536]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.37:579][536]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Chute_Ref". Node:  Set Sand_F Graph:  EventGraph Function:  Execute Ubergraph BP Chute Blueprint:  BP_Chute
+[2023.03.21-20.32.37:579][536]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Sand_F Graph:  EventGraph Function:  Execute Ubergraph BP Chute Blueprint:  BP_Chute
+[2023.03.21-20.32.37:579][536]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Chute_Ref". Node:  Set Sand_Float Graph:  EventGraph Function:  Execute Ubergraph BP Chute Blueprint:  BP_Chute
+[2023.03.21-20.32.38:579][656]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.39:578][776]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.39:903][815]LogBlueprintUserMessages: [RedsqDragto2_1] Hidden
+[2023.03.21-20.32.40:579][896]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.41:053][953]LogBlueprintUserMessages: [RedsqDragto2_3] Hidden
+[2023.03.21-20.32.41:579][ 16]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.41:994][ 66]LogBlueprintUserMessages: [RedsqDragto2_6] Hidden
+[2023.03.21-20.32.42:579][136]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.43:486][245]LogBlueprintUserMessages: [RedsqDragto2_2] Hidden
+[2023.03.21-20.32.43:578][256]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.44:579][376]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.45:579][496]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.46:578][616]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.47:578][736]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.48:583][855]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.49:577][974]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.50:578][ 94]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.51:535][209]LogBlueprintUserMessages: [RedsqDragto2] Hidden
+[2023.03.21-20.32.51:578][214]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.52:578][334]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.53:235][413]LogBlueprintUserMessages: [RedsqDragto2_5] Hidden
+[2023.03.21-20.32.53:578][454]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.54:599][574]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.54:803][599]LogBlueprintUserMessages: [RedsqDragto2] Hidden
+[2023.03.21-20.32.55:579][692]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.56:203][759]LogBlueprintUserMessages: [RedsqDragto2_1] Hidden
+[2023.03.21-20.32.56:580][804]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.57:345][896]LogBlueprintUserMessages: [RedsqDragto2_1] Hidden
+[2023.03.21-20.32.57:579][924]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.58:580][ 44]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.32.58:604][ 47]LogBlueprintUserMessages: [RedsqDragto2_3] Hidden
+[2023.03.21-20.32.59:437][147]LogBlueprintUserMessages: [RedsqDragto2] Hidden
+[2023.03.21-20.32.59:579][164]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.33.00:580][284]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.33.01:580][404]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.33.01:754][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.21-20.33.02:581][524]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.33.03:581][644]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.33.04:523][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.21-20.33.04:523][752]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Steven_Map
+[2023.03.21-20.33.04:523][752]LogWorld: UWorld::CleanupWorld for Steven_Map, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-20.33.04:525][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-20.33.04:530][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.21-20.33.04:537][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-20.33.04:603][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.21-20.33.04:604][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.03.21-20.33.04:606][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.03.21-20.33.04:617][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.03.21-20.33.04:738][753]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.03.21-20.33.05:899][837]LogSlate: Window 'Message Log' being destroyed
+[2023.03.21-20.33.05:913][837]LogSlate: Window 'Message Log' being destroyed
+[2023.03.21-20.33.32:243][124]LogEditorTransaction: Undo Delete current selection
+[2023.03.21-20.33.32:691][130]LogEditorTransaction: Undo Delete current selection
+[2023.03.21-20.33.32:920][132]LogEditorTransaction: Undo Delete current selection
+[2023.03.21-20.33.33:251][147]LogEditorTransaction: Undo Delete current selection
+[2023.03.21-20.33.33:723][176]LogEditorTransaction: Undo Delete current selection
+[2023.03.21-20.33.34:275][211]LogEditorTransaction: Undo Delete current selection
+[2023.03.21-20.33.35:189][278]LogEditorTransaction: Undo Delete current selection
+[2023.03.21-20.35.46:497][305]BlueprintLog: New page: Compile GlassDividerRepairUI
+[2023.03.21-20.35.46:619][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.03.21-20.35.47:208][328]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.21-20.35.47:286][328]LogSavePackage: Moving output files for package: /Game/UIElements/GlassDividerRepairUI
+[2023.03.21-20.35.47:287][328]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/GlassDividerRepairUI7C874BA145D56D1E9F73DAA27681D714.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/GlassDividerRepairUI.uasset'
+[2023.03.21-20.35.47:294][328]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 3.75 sec)
+[2023.03.21-20.35.47:301][328]AssetCheck: New page: Asset Save: GlassDividerRepairUI
+[2023.03.21-20.35.47:301][328]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/GlassDividerRepairUI.GlassDividerRepairUI
+[2023.03.21-20.35.47:403][337]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.21-20.35.47:438][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Steven_Map" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/Steven_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.21-20.35.47:509][337]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.03.21-20.35.47:587][337]LogSavePackage: Moving output files for package: /Game/Steven_Map
+[2023.03.21-20.35.47:588][337]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/Steven_Map18F3AA1B4B58A9512FA51790EF0517DF.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/Steven_Map.umap'
+[2023.03.21-20.35.47:634][337]LogFileHelpers: Saving map 'Steven_Map' took 0.196
+[2023.03.21-20.35.47:640][337]LogFileHelpers: InternalPromptForCheckoutAndSave took 236 ms (total: 3.99 sec)
+[2023.03.21-20.35.47:649][337]AssetCheck: New page: Asset Save: Steven_Map
+[2023.03.21-20.35.47:649][337]LogContentValidation: Display: Validating /Script/Engine.World /Game/Steven_Map.Steven_Map
+[2023.03.21-20.35.49:134][467]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.21-20.35.49:140][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.21-20.35.49:140][467]PIE: New page: PIE session: Steven_Map (Mar 21, 2023, 6:35:49 AM)
+[2023.03.21-20.35.49:172][467]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Steven_Map
+[2023.03.21-20.35.49:208][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035568s)
+[2023.03.21-20.35.49:208][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Steven_Map.Steven_Map to /Game/UEDPIE_0_Steven_Map.Steven_Map (0.035596s)
+[2023.03.21-20.35.49:208][467]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.21-20.35.49:208][467]LogAIModule: Creating AISystem for world Steven_Map
+[2023.03.21-20.35.49:208][467]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2023.03.21-20.35.49:281][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.03.21-20.35.49:283][467]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.03.21-20.35.49:283][467]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.21-20.35.49:283][467]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.21-20.35.49:283][467]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.21-20.35.49:283][467]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.21-20.35.49:283][467]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.21-20.35.49:283][467]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.21-20.35.49:283][467]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.21-20.35.49:283][467]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.21-20.35.49:283][467]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.21-20.35.49:283][467]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.21-20.35.49:283][467]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.21-20.35.49:285][467]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.21-20.35.49:307][467]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.21-20.35.49:307][467]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.21-20.35.49:307][467]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.21-20.35.49:307][467]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.21-20.35.49:309][467]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2023.03.21-20.35.49:309][467]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2023.03.21-20.35.49:310][467]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2023.03.21-20.35.49:310][467]LogInit: FAudioDevice initialized.
+[2023.03.21-20.35.49:310][467]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2023.03.21-20.35.49:310][467]LogAudio: Display: Audio Device (ID: 26) registered with world 'Steven_Map'.
+[2023.03.21-20.35.49:315][467]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.21-20.35.49:339][467]LogWorld: Bringing World /Game/UEDPIE_0_Steven_Map.Steven_Map up for play (max tick rate 0) at 2023.03.21-13.35.49
+[2023.03.21-20.35.49:344][467]LogWorld: Bringing up level for play took: 0.028555
+[2023.03.21-20.35.49:346][467]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2023.03.21-20.35.49:348][467]LogBlueprintUserMessages: [BP_Chute_C_0] Hello2
+[2023.03.21-20.35.49:349][467]PIE: Server logged in
+[2023.03.21-20.35.49:349][467]PIE: Play in editor total start time 0.209 seconds.
+[2023.03.21-20.35.50:194][527]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.35.51:195][624]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.35.52:200][724]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.35.53:198][821]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.35.54:194][921]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.35.55:201][ 31]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.35.56:196][150]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.35.57:195][270]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.35.58:196][390]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.35.59:196][510]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.00:196][630]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.00:854][709]LogBlueprintUserMessages: [GlassDividerUI_C_0] false
+[2023.03.21-20.36.01:196][750]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.02:196][870]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.02:196][870]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Chute_Ref". Node:  Set Sand_F Graph:  EventGraph Function:  Execute Ubergraph BP Chute Blueprint:  BP_Chute
+[2023.03.21-20.36.02:196][870]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Sand_F Graph:  EventGraph Function:  Execute Ubergraph BP Chute Blueprint:  BP_Chute
+[2023.03.21-20.36.02:196][870]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Chute_Ref". Node:  Set Sand_Float Graph:  EventGraph Function:  Execute Ubergraph BP Chute Blueprint:  BP_Chute
+[2023.03.21-20.36.03:196][990]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.04:196][110]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.05:196][230]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.06:196][350]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.07:196][470]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.08:196][590]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.09:196][710]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.10:196][830]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.10:437][859]LogBlueprintUserMessages: [GlassDividerUI_C_0] false
+[2023.03.21-20.36.11:196][950]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.12:196][ 70]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.13:196][190]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.14:196][310]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.15:197][430]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.16:196][550]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.16:595][598]LogBlueprintUserMessages: [RedsqDragto] Hidden
+[2023.03.21-20.36.17:196][670]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.18:196][790]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.18:212][792]LogBlueprintUserMessages: [GlassDividerUI_C_0] false
+[2023.03.21-20.36.19:196][910]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.20:196][ 30]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.21:196][150]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.22:196][270]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.23:196][390]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.24:199][508]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.25:199][628]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.26:199][748]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.27:199][868]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.28:200][988]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.29:199][108]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.30:200][228]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.31:199][348]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.32:199][468]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.32:882][550]LogBlueprintUserMessages: [RedsqDragto2] Hidden
+[2023.03.21-20.36.33:199][588]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.34:200][708]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.34:673][765]LogBlueprintUserMessages: [RedsqDragto2] Hidden
+[2023.03.21-20.36.35:200][828]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.35:490][863]LogBlueprintUserMessages: [RedsqDragto2_3] Hidden
+[2023.03.21-20.36.36:200][948]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.36:374][969]LogBlueprintUserMessages: [RedsqDragto2_2] Hidden
+[2023.03.21-20.36.37:199][ 68]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.37:298][ 80]LogBlueprintUserMessages: [RedsqDragto2] Hidden
+[2023.03.21-20.36.38:199][188]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.39:200][308]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.40:200][428]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.41:200][548]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.41:349][566]LogBlueprintUserMessages: [GlassDividerUI_C_0] false
+[2023.03.21-20.36.42:202][661]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.43:201][781]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.44:202][901]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.45:202][ 21]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.46:202][141]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.47:202][261]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.48:202][381]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.49:196][494]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.50:195][597]LogBlueprintUserMessages: [BP_Chute_C_0] Hello
+[2023.03.21-20.36.50:573][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.21-20.36.50:573][634]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Steven_Map
+[2023.03.21-20.36.50:573][634]LogWorld: UWorld::CleanupWorld for Steven_Map, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-20.36.50:576][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-20.36.50:580][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.21-20.36.50:586][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-20.36.50:652][634]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.21-20.36.50:653][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.03.21-20.36.50:657][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.03.21-20.36.50:661][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.21-20.36.50:667][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.03.21-20.36.50:776][635]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.03.21-20.36.53:932][877]LogSlate: Window 'Message Log' being destroyed
+[2023.03.21-20.36.53:936][877]LogSlate: Window 'Message Log' being destroyed
+[2023.03.21-20.39.43:332][983]BlueprintLog: New page: Compile GlassDivider
+[2023.03.21-20.39.43:579][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.03.21-20.39.44:112][  4]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.21-20.39.44:197][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GlassDivider" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/Blueprints/GlassDivider.uasset" SILENT=true
+[2023.03.21-20.39.44:210][  4]LogSavePackage: Moving output files for package: /Game/Blueprints/GlassDivider
+[2023.03.21-20.39.44:211][  4]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/GlassDividerCE6EAF75483E35CCF4C9F192C407912C.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/Blueprints/GlassDivider.uasset'
+[2023.03.21-20.39.44:219][  4]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 4.10 sec)
+[2023.03.21-20.39.44:226][  4]AssetCheck: New page: Asset Save: GlassDivider
+[2023.03.21-20.39.44:226][  4]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GlassDivider.GlassDivider
