@@ -3258,3 +3258,96 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.23-18.18.48:791][629]LogFileHelpers: InternalPromptForCheckoutAndSave took 223 ms (total: 32.1 sec)
 [2023.03.23-18.18.48:798][629]AssetCheck: New page: Asset Save: Steven_Map
 [2023.03.23-18.18.48:798][629]LogContentValidation: Display: Validating /Script/Engine.World /Game/Steven_Map.Steven_Map
+[2023.03.23-18.19.28:927][  2]LogObjectTools: Deleting 1 worlds: /Game/TestMap.TestMap
+[2023.03.23-18.19.28:928][  2]LogObjectTools: Currently 3 active worlds: /Game/Steven_Map.Steven_Map, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2023.03.23-18.19.28:937][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.03.23-18.19.41:480][  2]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.23-18.19.41:506][  2]LogUObjectGlobals: Force Deleting 149 Package(s):
+	Asset Name: /Game/TestMap_HLOD0_Instancing.TestMap_HLOD0_Instancing
+	Asset Type: HLODLayer
+	Asset Name: /Game/TestMap.TestMap
+	Asset Type: World
+	Asset Name: /Game/__ExternalActors__/TestMap/E/TW/7ZXSPLVEY4VUDZVF8ISN4D
+	Asset Type: Package
+	Asset Name: /Game/__ExternalObjects__/TestMap/4/JZ/GVAWCKA0T5BPA8X4YGWSKR
+	Asset Type: Package
+	Asset Name: /Game/__ExternalObjects__/TestMap/4/WG/61SKMG1LRTXYW6UAUR9AGY
+	Asset Type: Package
+	Asset Name: /Game/__ExternalObjects__/TestMap/5/5L/C3I1G93P8CAVWJMYPBEYEW
+	Asset Type: Package
+	Asset Name: /Game/__ExternalActors__/TestMap/0/1I/YQ1KMXK2R5JMFYQJRIMQMZ
+	Asset Type: Package
+	Asset Name: /Game/__ExternalActors__/TestMap/0/2V/8HW4RIB6V6L4BQB4NBG1NL
+	Asset Type: Package
+	Asset Name: /Game/__ExternalActors__/TestMap/0/B6/WOK65NS72Z28U9NXLG7RTV
+	Asset Type: Package
+	Asset Name: /Game/__ExternalActors__/TestMap/0/DO/C13W3UJPSQVYIXSXJVODA0
+	Asset Type: Package
+[2023.03.23-18.19.41:834][  2]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-18.19.41:836][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-18.19.42:023][  2]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2023.03.23-18.20.08:583][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.03.23-18.20.08:594][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.03.23-18.20.08:604][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.03.23-18.20.08:708][  4]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/TestMap does not exist, will not scan.
+[2023.03.23-18.20.29:082][681]LogSlate: Window 'Message' being destroyed
+[2023.03.23-18.20.29:089][681]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+Steven_Map
+MainMenu
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2023.03.23-18.20.29:112][681]LogMetaData: Removing '/Game/Maps/MainMenu.MainMenu_C' ref from Metadata '/Game/MainMenu.PackageMetaData'
+[2023.03.23-18.20.29:112][681]LogMetaData: Removing '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu.EventGraph.K2Node_Event_0' ref from Metadata '/Game/MainMenu.PackageMetaData'
+[2023.03.23-18.20.29:112][681]LogMetaData: Removing '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu.EventGraph.K2Node_Event_1' ref from Metadata '/Game/MainMenu.PackageMetaData'
+[2023.03.23-18.20.29:112][681]LogMetaData: Removing '/Game/Maps/MainMenu.SKEL_MainMenu_C:ReceiveBeginPlay' ref from Metadata '/Game/MainMenu.PackageMetaData'
+[2023.03.23-18.20.29:112][681]LogMetaData: Removing '/Game/Maps/MainMenu.SKEL_MainMenu_C:ReceiveTick' ref from Metadata '/Game/MainMenu.PackageMetaData'
+[2023.03.23-18.20.29:112][681]LogMetaData: Removing '/Game/Maps/MainMenu.SKEL_MainMenu_C' ref from Metadata '/Game/MainMenu.PackageMetaData'
+[2023.03.23-18.20.29:112][681]LogMetaData: Removing '/Game/Maps/MainMenu.MainMenu_C:ReceiveBeginPlay' ref from Metadata '/Game/MainMenu.PackageMetaData'
+[2023.03.23-18.20.29:116][681]LogMetaData: Removing '/Game/Maps/Steven_Map.Steven_Map_C' ref from Metadata '/Game/Steven_Map.PackageMetaData'
+[2023.03.23-18.20.29:116][681]LogMetaData: Removing '/Game/Maps/Steven_Map.SKEL_Steven_Map_C' ref from Metadata '/Game/Steven_Map.PackageMetaData'
+[2023.03.23-18.20.29:120][681]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.23-18.20.29:181][681]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-18.20.29:225][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.03.23-18.20.29:241][681]LogSavePackage: Moving output files for package: /Game/Maps/Harlan_Map
+[2023.03.23-18.20.29:241][681]LogSavePackage: Moving '../../../../../../Users/harla/OneDrive/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/Harlan_Map3F432BC747E03EA347427485F4ACFDF4.tmp' to '../../../../../../Users/harla/OneDrive/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/Maps/Harlan_Map.umap'
+[2023.03.23-18.20.29:258][681]LogFileHelpers: Saving map 'Harlan_Map' took 0.078
+[2023.03.23-18.20.29:259][681]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-18.20.29:269][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.03.23-18.20.29:292][681]LogSavePackage: Moving output files for package: /Game/Maps/MainMenu
+[2023.03.23-18.20.29:292][681]LogSavePackage: Moving '../../../../../../Users/harla/OneDrive/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/MainMenu03151F934F45822EEAB868ACE14EAA27.tmp' to '../../../../../../Users/harla/OneDrive/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/Maps/MainMenu.umap'
+[2023.03.23-18.20.29:296][681]LogFileHelpers: Saving map 'MainMenu' took 0.038
+[2023.03.23-18.20.29:298][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../../Users/harla/OneDrive/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/MainMenu.umap" SILENT=true
+[2023.03.23-18.20.29:298][681]LogSavePackage: Moving output files for package: /Game/MainMenu
+[2023.03.23-18.20.29:299][681]LogSavePackage: Moving '../../../../../../Users/harla/OneDrive/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/MainMenu09C179C44EAD38E65A380DBC754165BF.tmp' to '../../../../../../Users/harla/OneDrive/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/MainMenu.umap'
+[2023.03.23-18.20.29:301][681]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-18.20.29:310][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.03.23-18.20.29:313][681]LogSavePackage: Moving output files for package: /Game/Maps/modeltest
+[2023.03.23-18.20.29:313][681]LogSavePackage: Moving '../../../../../../Users/harla/OneDrive/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/modeltestC32DFF42403A4B054AD6B6A10B839230.tmp' to '../../../../../../Users/harla/OneDrive/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/Maps/modeltest.umap'
+[2023.03.23-18.20.29:316][681]LogFileHelpers: Saving map 'modeltest' took 0.015
+[2023.03.23-18.20.29:326][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.03.23-18.20.29:435][681]LogSavePackage: Moving output files for package: /Game/Maps/Steven_Map
+[2023.03.23-18.20.29:435][681]LogSavePackage: Moving '../../../../../../Users/harla/OneDrive/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/Steven_Map1C4E446246A4474941267EA44A7665AE.tmp' to '../../../../../../Users/harla/OneDrive/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/Maps/Steven_Map.umap'
+[2023.03.23-18.20.29:449][681]LogFileHelpers: Saving map 'Steven_Map' took 0.133
+[2023.03.23-18.20.29:450][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Steven_Map" FILE="../../../../../../Users/harla/OneDrive/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/Steven_Map.umap" SILENT=true
+[2023.03.23-18.20.29:452][681]LogSavePackage: Moving output files for package: /Game/Steven_Map
+[2023.03.23-18.20.29:452][681]LogSavePackage: Moving '../../../../../../Users/harla/OneDrive/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/Steven_Map8625024241656A5A6DB1AFA7E38A6595.tmp' to '../../../../../../Users/harla/OneDrive/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/Steven_Map.umap'
+[2023.03.23-18.20.29:511][681]LogSavePackage: Moving output files for package: /Game/UI/UI_Blueprints/BP_MainMenu
+[2023.03.23-18.20.29:513][681]LogSavePackage: Moving '../../../../../../Users/harla/OneDrive/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/BP_MainMenu5F3854864738E786C91D8C9EA4E3B6C9.tmp' to '../../../../../../Users/harla/OneDrive/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UI/UI_Blueprints/BP_MainMenu.uasset'
+[2023.03.23-18.20.29:522][681]LogFileHelpers: InternalPromptForCheckoutAndSave took 403 ms (total: 32.5 sec)
+[2023.03.23-18.20.29:716][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.03.23-18.20.29:726][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.03.23-18.20.29:735][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.03.23-18.20.29:765][681]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.23-18.20.29:765][681]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Harlan_Map.Harlan_Map
+[2023.03.23-18.20.29:765][681]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Steven_Map.Steven_Map
+[2023.03.23-18.20.29:765][681]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Steven_Map.Default__Steven_Map_C
+[2023.03.23-18.20.29:765][681]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Steven_Map.Steven_Map_C
+[2023.03.23-18.20.29:765][681]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Steven_Map.Steven_Map
+[2023.03.23-18.20.29:765][681]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/MainMenu.Default__MainMenu_C
+[2023.03.23-18.20.29:765][681]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/MainMenu.MainMenu_C
+[2023.03.23-18.20.29:765][681]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/MainMenu.MainMenu
+[2023.03.23-18.20.29:765][681]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/modeltest.modeltest
+[2023.03.23-18.20.29:765][681]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MainMenu.MainMenu
+[2023.03.23-18.20.29:765][681]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UI_Blueprints/BP_MainMenu.BP_MainMenu
