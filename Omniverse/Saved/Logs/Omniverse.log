@@ -2432,3 +2432,203 @@ Make sure 'PressureStationUi_C' has been compiled for  Get Line1-2
 [2023.03.28-02.16.13:865][614]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 2.58 sec)
 [2023.03.28-02.16.13:871][614]AssetCheck: New page: Asset Save: Chute_Sand_Blueprint
 [2023.03.28-02.16.13:871][614]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/UI_Blueprints/Chute_Sand_Blueprint.Chute_Sand_Blueprint
+[2023.03.28-02.18.21:115][787]LogSlate: Took 0.004983 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.03.28-02.19.02:154][371]BlueprintLog: New page: Compile Chute_Sand_Blueprint
+[2023.03.28-02.19.02:229][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.03.28-02.20.18:269][949]BlueprintLog: New page: Compile Chute_Sand_Blueprint
+[2023.03.28-02.20.18:344][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.03.28-02.20.29:252][153]BlueprintLog: New page: Compile Chute_Sand_Blueprint
+[2023.03.28-02.20.29:328][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.03.28-02.20.29:803][199]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.28-02.20.29:855][199]LogSavePackage: Moving output files for package: /Game/UI/UI_Blueprints/Chute_Sand_Blueprint
+[2023.03.28-02.20.29:855][199]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/Chute_Sand_BlueprintFBD2A49645E6BF512B9CEA8105400BA2.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UI/UI_Blueprints/Chute_Sand_Blueprint.uasset'
+[2023.03.28-02.20.29:861][199]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 2.64 sec)
+[2023.03.28-02.20.29:868][199]AssetCheck: New page: Asset Save: Chute_Sand_Blueprint
+[2023.03.28-02.20.29:868][199]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/UI_Blueprints/Chute_Sand_Blueprint.Chute_Sand_Blueprint
+[2023.03.28-02.20.30:904][316]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.03.28-02.20.30:910][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-02.20.30:910][316]PIE: New page: PIE session: Steven_Map (Mar 27, 2023, 12:20:30 PM)
+[2023.03.28-02.20.30:910][316]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Steven_Map
+[2023.03.28-02.20.30:949][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038943s)
+[2023.03.28-02.20.30:949][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Steven_Map.Steven_Map to /Game/UEDPIE_0_Steven_Map.Steven_Map (0.038968s)
+[2023.03.28-02.20.30:949][316]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-02.20.30:949][316]LogAIModule: Creating AISystem for world Steven_Map
+[2023.03.28-02.20.30:950][316]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2023.03.28-02.20.30:995][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.03.28-02.20.30:997][316]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.03.28-02.20.30:997][316]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-02.20.30:997][316]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-02.20.30:997][316]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-02.20.30:997][316]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-02.20.30:997][316]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.28-02.20.30:997][316]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-02.20.30:997][316]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.28-02.20.30:997][316]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-02.20.30:997][316]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-02.20.30:997][316]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-02.20.30:997][316]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-02.20.31:000][316]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-02.20.31:023][316]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.28-02.20.31:023][316]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-02.20.31:023][316]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-02.20.31:023][316]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-02.20.31:023][316]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.03.28-02.20.31:024][316]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.03.28-02.20.31:026][316]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.03.28-02.20.31:026][316]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.03.28-02.20.31:026][316]LogInit: FAudioDevice initialized.
+[2023.03.28-02.20.31:026][316]LogAudio: Display: Audio Device (ID: 10) registered with world 'Steven_Map'.
+[2023.03.28-02.20.31:082][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-02.20.31:082][316]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.28-02.20.31:125][316]LogWorld: Bringing World /Game/UEDPIE_0_Steven_Map.Steven_Map up for play (max tick rate 0) at 2023.03.27-19.20.31
+[2023.03.28-02.20.31:130][316]LogWorld: Bringing up level for play took: 0.047723
+[2023.03.28-02.20.31:132][316]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.03.28-02.20.31:133][316]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Set thickness) or object (CoolerMachine_C_1)
+[2023.03.28-02.20.31:137][316]PIE: Server logged in
+[2023.03.28-02.20.31:140][316]PIE: Play in editor total start time 0.23 seconds.
+[2023.03.28-02.20.31:165][316]LogViewport: Scene viewport resized to 1594x820, mode Windowed.
+[2023.03.28-02.20.47:722][708]LogBlueprintUserMessages: [BP_Chute_C_0] 0.200279
+[2023.03.28-02.20.47:722][708]LogBlueprintUserMessages: [BP_Chute_C_0] 0.200279
+[2023.03.28-02.20.58:483][625]LogBlueprintUserMessages: [Chute_Sand_Blueprint_C_0] 1.0
+[2023.03.28-02.21.02:854][990]LogBlueprintUserMessages: [Chute_Sand_Blueprint_C_0] 1.0
+[2023.03.28-02.21.11:187][666]LogBlueprintUserMessages: [BP_Chute_C_0] 1.0
+[2023.03.28-02.21.11:187][666]LogBlueprintUserMessages: [BP_Chute_C_0] 1.0
+[2023.03.28-02.21.15:186][958]LogShaderCompilers: Display: ================================================
+[2023.03.28-02.21.15:186][958]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.28-02.21.15:186][958]LogShaderCompilers: Display: Total job queries 285, among them cache hits 47 (16.49%)
+[2023.03.28-02.21.15:186][958]LogShaderCompilers: Display: Tracking 232 distinct input hashes that result in 154 distinct outputs (66.38%)
+[2023.03.28-02.21.15:186][958]LogShaderCompilers: Display: RAM used: 1.77 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.22%
+[2023.03.28-02.21.15:186][958]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.28-02.21.15:186][958]LogShaderCompilers: Display: Shaders Compiled: 34
+[2023.03.28-02.21.15:186][958]LogShaderCompilers: Display: Jobs assigned 40, completed 34 (85.00%)
+[2023.03.28-02.21.15:186][958]LogShaderCompilers: Display: Average time worker was idle: 944.45 s
+[2023.03.28-02.21.15:186][958]LogShaderCompilers: Display: Time job spent in pending queue: average 0.76 s, longest 2.54 s
+[2023.03.28-02.21.15:186][958]LogShaderCompilers: Display: Job execution time: average 1.10 s, max 1.60 s
+[2023.03.28-02.21.15:186][958]LogShaderCompilers: Display: Job life time (pending + execution): average 2.00 s, max 3.69
+[2023.03.28-02.21.15:186][958]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.31 s
+[2023.03.28-02.21.15:186][958]LogShaderCompilers: Display: Jobs were issued in 40 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.28-02.21.15:186][958]LogShaderCompilers: Display: Average processing rate: 6.40 jobs/sec
+[2023.03.28-02.21.15:186][958]LogShaderCompilers: Display: Total thread time: 27.37 s
+[2023.03.28-02.21.15:186][958]LogShaderCompilers: Display: Total thread preprocess time: 1.97 s
+[2023.03.28-02.21.15:186][958]LogShaderCompilers: Display: Percentage time preprocessing: 7.19%
+[2023.03.28-02.21.15:186][958]LogShaderCompilers: Display: Effective parallelization: 5.15 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.28-02.21.15:186][958]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.28-02.21.15:186][958]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 1.16 sec, max 1.44 sec, min 0.93 sec)
+[2023.03.28-02.21.15:186][958]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   10 times, average 1.05 sec, max 1.42 sec, min 0.74 sec)
+[2023.03.28-02.21.15:187][958]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.88 sec, max 1.00 sec, min 0.72 sec)
+[2023.03.28-02.21.15:187][958]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 0.58 sec, max 0.61 sec, min 0.56 sec)
+[2023.03.28-02.21.15:187][958]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    3 times, average 0.56 sec, max 0.57 sec, min 0.54 sec)
+[2023.03.28-02.21.15:187][958]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.28-02.21.15:187][958]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 38.21% of total time (compiled   10 times, average 1.05 sec, max 1.42 sec, min 0.74 sec)
+[2023.03.28-02.21.15:187][958]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.28% of total time (compiled    6 times, average 0.88 sec, max 1.00 sec, min 0.72 sec)
+[2023.03.28-02.21.15:187][958]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 16.97% of total time (compiled    4 times, average 1.16 sec, max 1.44 sec, min 0.93 sec)
+[2023.03.28-02.21.15:187][958]LogShaderCompilers: Display:                                            FDistortionMeshPS - 7.54% of total time (compiled    4 times, average 0.52 sec, max 0.52 sec, min 0.50 sec)
+[2023.03.28-02.21.15:187][958]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.38% of total time (compiled    3 times, average 0.58 sec, max 0.61 sec, min 0.56 sec)
+[2023.03.28-02.21.15:187][958]LogShaderCompilers: Display: ================================================
+[2023.03.28-02.21.21:268][410]LogBlueprintUserMessages: [BP_Chute_C_0] 0.616526
+[2023.03.28-02.21.21:268][410]LogBlueprintUserMessages: [BP_Chute_C_0] 0.616526
+[2023.03.28-02.21.34:908][494]LogBlueprintUserMessages: [Chute_Sand_Blueprint_C_0] 1.0
+[2023.03.28-02.21.36:352][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-02.21.36:352][600]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Steven_Map
+[2023.03.28-02.21.36:355][600]LogSlate: Window 'Omniverse Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.03.28-02.21.36:359][600]LogWorld: UWorld::CleanupWorld for Steven_Map, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-02.21.36:362][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-02.21.36:369][600]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-02.21.36:376][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-02.21.36:424][600]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.28-02.21.36:424][600]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.03.28-02.21.36:426][600]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.03.28-02.21.36:437][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.03.28-02.21.36:469][601]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.03.28-02.21.42:273][260]LogDerivedDataCache: C:/Users/Nik/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.086 and deleted 0 files with total size 0 MiB. Scanned 2557 files in 2543 folders with total size 689 MiB.
+[2023.03.28-02.21.53:081][528]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.28-02.21.53:153][528]LogSavePackage: Moving output files for package: /Game/UI/UI_Blueprints/Chute_Sand_Blueprint
+[2023.03.28-02.21.53:153][528]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/Chute_Sand_Blueprint6F292A304F6C1A3EE27D0DAB180CBD71.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UI/UI_Blueprints/Chute_Sand_Blueprint.uasset'
+[2023.03.28-02.21.53:159][528]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 2.71 sec)
+[2023.03.28-02.21.53:166][528]AssetCheck: New page: Asset Save: Chute_Sand_Blueprint
+[2023.03.28-02.21.53:166][528]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/UI_Blueprints/Chute_Sand_Blueprint.Chute_Sand_Blueprint
+[2023.03.28-02.21.53:934][605]BlueprintLog: New page: Compile Chute_Sand_Blueprint
+[2023.03.28-02.21.54:008][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.03.28-02.21.54:393][638]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.28-02.21.54:469][638]LogSavePackage: Moving output files for package: /Game/UI/UI_Blueprints/Chute_Sand_Blueprint
+[2023.03.28-02.21.54:469][638]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/Chute_Sand_Blueprint924D5B9741A3AB6C05D1F08BE748EB75.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UI/UI_Blueprints/Chute_Sand_Blueprint.uasset'
+[2023.03.28-02.21.54:475][638]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 2.80 sec)
+[2023.03.28-02.21.54:481][638]AssetCheck: New page: Asset Save: Chute_Sand_Blueprint
+[2023.03.28-02.21.54:481][638]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/UI_Blueprints/Chute_Sand_Blueprint.Chute_Sand_Blueprint
+[2023.03.28-02.21.54:871][680]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.03.28-02.21.54:876][680]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-02.21.54:876][680]PIE: New page: PIE session: Steven_Map (Mar 27, 2023, 12:21:54 PM)
+[2023.03.28-02.21.54:876][680]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Steven_Map
+[2023.03.28-02.21.54:916][680]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039731s)
+[2023.03.28-02.21.54:916][680]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Steven_Map.Steven_Map to /Game/UEDPIE_0_Steven_Map.Steven_Map (0.039755s)
+[2023.03.28-02.21.54:916][680]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-02.21.54:917][680]LogAIModule: Creating AISystem for world Steven_Map
+[2023.03.28-02.21.54:917][680]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2023.03.28-02.21.54:964][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.03.28-02.21.54:965][680]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.03.28-02.21.54:965][680]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-02.21.54:965][680]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-02.21.54:965][680]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-02.21.54:965][680]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-02.21.54:965][680]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.28-02.21.54:965][680]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-02.21.54:965][680]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.28-02.21.54:965][680]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-02.21.54:966][680]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-02.21.54:966][680]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-02.21.54:966][680]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-02.21.54:968][680]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-02.21.54:991][680]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.28-02.21.54:991][680]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-02.21.54:991][680]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-02.21.54:991][680]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-02.21.54:991][680]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.03.28-02.21.54:991][680]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.03.28-02.21.54:994][680]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.03.28-02.21.54:994][680]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.03.28-02.21.54:994][680]LogInit: FAudioDevice initialized.
+[2023.03.28-02.21.54:994][680]LogAudio: Display: Audio Device (ID: 11) registered with world 'Steven_Map'.
+[2023.03.28-02.21.55:045][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-02.21.55:045][680]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.28-02.21.55:086][680]LogWorld: Bringing World /Game/UEDPIE_0_Steven_Map.Steven_Map up for play (max tick rate 0) at 2023.03.27-19.21.55
+[2023.03.28-02.21.55:091][680]LogWorld: Bringing up level for play took: 0.045320
+[2023.03.28-02.21.55:093][680]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2023.03.28-02.21.55:094][680]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Set thickness) or object (CoolerMachine_C_1)
+[2023.03.28-02.21.55:098][680]PIE: Server logged in
+[2023.03.28-02.21.55:101][680]PIE: Play in editor total start time 0.225 seconds.
+[2023.03.28-02.21.55:126][680]LogViewport: Scene viewport resized to 1594x820, mode Windowed.
+[2023.03.28-02.22.06:736][636]LogBlueprintUserMessages: [BP_Chute_C_0] 0.09897
+[2023.03.28-02.22.06:736][636]LogBlueprintUserMessages: [BP_Chute_C_0] 0.09897
+[2023.03.28-02.22.18:993][647]LogBlueprintUserMessages: [BP_Chute_C_0] 0.09897
+[2023.03.28-02.22.18:993][647]LogBlueprintUserMessages: [BP_Chute_C_0] 0.09897
+[2023.03.28-02.22.31:190][632]LogBlueprintUserMessages: [BP_Chute_C_0] 0.09897
+[2023.03.28-02.22.31:190][632]LogBlueprintUserMessages: [BP_Chute_C_0] 0.09897
+[2023.03.28-02.22.35:531][981]LogBlueprintUserMessages: [Chute_Sand_Blueprint_C_0] 1.0
+[2023.03.28-02.22.42:240][497]LogBlueprintUserMessages: [BP_Chute_C_0] 1.0
+[2023.03.28-02.22.42:240][497]LogBlueprintUserMessages: [BP_Chute_C_0] 1.0
+[2023.03.28-02.22.43:192][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-02.22.43:192][569]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Steven_Map
+[2023.03.28-02.22.43:192][569]LogSlate: Window 'Omniverse Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.03.28-02.22.43:196][569]LogWorld: UWorld::CleanupWorld for Steven_Map, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-02.22.43:199][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-02.22.43:208][569]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-02.22.43:214][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-02.22.43:260][569]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.28-02.22.43:260][569]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.03.28-02.22.43:262][569]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.03.28-02.22.43:276][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.03.28-02.22.43:304][570]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.03.28-02.22.44:652][728]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.28-02.22.44:718][728]LogSavePackage: Moving output files for package: /Game/UI/UI_Blueprints/Chute_Sand_Blueprint
+[2023.03.28-02.22.44:718][728]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/Chute_Sand_Blueprint7E51B8B14CD5197BA12A7DA8EC1D999A.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UI/UI_Blueprints/Chute_Sand_Blueprint.uasset'
+[2023.03.28-02.22.44:724][728]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 2.87 sec)
+[2023.03.28-02.22.44:730][728]AssetCheck: New page: Asset Save: Chute_Sand_Blueprint
+[2023.03.28-02.22.44:730][728]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/UI_Blueprints/Chute_Sand_Blueprint.Chute_Sand_Blueprint
+[2023.03.28-02.23.06:224][276]BlueprintLog: New page: Compile Chute_Sand_Blueprint
+[2023.03.28-02.23.06:297][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.03.28-02.23.07:060][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.28-02.23.07:117][354]LogSavePackage: Moving output files for package: /Game/UI/UI_Blueprints/Chute_Sand_Blueprint
+[2023.03.28-02.23.07:117][354]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/Chute_Sand_Blueprint39B4865B4E2022A151444DB75B16AE2B.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UI/UI_Blueprints/Chute_Sand_Blueprint.uasset'
+[2023.03.28-02.23.07:123][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 2.93 sec)
+[2023.03.28-02.23.07:130][354]AssetCheck: New page: Asset Save: Chute_Sand_Blueprint
+[2023.03.28-02.23.07:130][354]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/UI_Blueprints/Chute_Sand_Blueprint.Chute_Sand_Blueprint
