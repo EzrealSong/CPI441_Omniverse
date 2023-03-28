@@ -34781,3 +34781,17 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.28-19.38.55:403][975]LogPlayLevel: Display: Destroying online subsystem :Context_44
 [2023.03.28-19.38.56:507][ 64]LogSlate: Window 'Message Log' being destroyed
 [2023.03.28-19.38.56:516][ 64]LogSlate: Window 'Message Log' being destroyed
+[2023.03.28-19.39.46:786][503]Cmd: DELETE
+[2023.03.28-19.39.46:786][503]Cmd: ACTOR DELETE
+[2023.03.28-19.39.47:285][503]LogEditorActor: Deleted Actor: Pressure_C
+[2023.03.28-19.39.47:395][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.03.28-19.39.47:397][503]LogEditorActor: Deleted 1 Actors (0.604 secs)
+[2023.03.28-19.39.51:917][998]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.28-19.39.51:984][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Steven_Map" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/Steven_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.28-19.39.52:056][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.03.28-19.39.52:140][998]LogSavePackage: Moving output files for package: /Game/Steven_Map
+[2023.03.28-19.39.52:141][998]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/Steven_Map768835EF4D3AE334650D68AE403FE9F0.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/Steven_Map.umap'
+[2023.03.28-19.39.52:201][998]LogFileHelpers: Saving map 'Steven_Map' took 0.218
+[2023.03.28-19.39.52:207][998]LogFileHelpers: InternalPromptForCheckoutAndSave took 289 ms (total: 6.95 sec)
+[2023.03.28-19.39.52:218][998]AssetCheck: New page: Asset Save: Steven_Map
+[2023.03.28-19.39.52:218][998]LogContentValidation: Display: Validating /Script/Engine.World /Game/Steven_Map.Steven_Map
