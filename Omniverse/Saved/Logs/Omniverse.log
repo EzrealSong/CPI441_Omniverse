@@ -1785,3 +1785,391 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.28-03.48.09:333][134]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2023.03.28-03.48.09:721][134]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
 [2023.03.28-03.48.09:721][134]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.28-03.55.58:391][ 77]LogContentBrowser: Deferred new asset file creation: DraggableSq1
+[2023.03.28-03.55.58:405][ 77]LogContentBrowser: Creating deferred item: DraggableSq1
+[2023.03.28-03.55.58:420][ 78]LogContentBrowser: Renaming the item being created (Deferred Item: DraggableSq1).
+[2023.03.28-03.56.03:631][640]LogContentBrowser: Attempting asset rename: DraggableSq1 -> DraggableBar
+[2023.03.28-03.56.03:713][640]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.03.28-03.56.03:723][640]LogContentBrowser: End creating deferred item DraggableSq1
+[2023.03.28-03.56.09:467][176]LogContentBrowser: Deferred new asset file creation: DraggedSq1
+[2023.03.28-03.56.09:487][176]LogContentBrowser: Creating deferred item: DraggedSq1
+[2023.03.28-03.56.09:500][177]LogContentBrowser: Renaming the item being created (Deferred Item: DraggedSq1).
+[2023.03.28-03.56.11:883][431]LogContentBrowser: Attempting asset rename: DraggedSq1 -> DraggedBar
+[2023.03.28-03.56.11:952][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.03.28-03.56.11:959][431]LogContentBrowser: End creating deferred item DraggedSq1
+[2023.03.28-03.56.12:899][521]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.28-03.56.12:960][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIElements/DraggedBar" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/DraggedBar.uasset" SILENT=true
+[2023.03.28-03.56.12:962][521]LogSavePackage: Moving output files for package: /Game/UIElements/DraggedBar
+[2023.03.28-03.56.12:962][521]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/DraggedBarB19A5DBC4AFC7E4E18C558A46D5F91FA.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/DraggedBar.uasset'
+[2023.03.28-03.56.12:967][521]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 1.14 sec)
+[2023.03.28-03.56.12:975][521]AssetCheck: New page: Asset Save: DraggedBar
+[2023.03.28-03.56.12:975][521]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/DraggedBar.DraggedBar
+[2023.03.28-03.56.13:847][601]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.28-03.56.13:893][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIElements/DraggableBar" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/DraggableBar.uasset" SILENT=true
+[2023.03.28-03.56.13:896][601]LogSavePackage: Moving output files for package: /Game/UIElements/DraggableBar
+[2023.03.28-03.56.13:896][601]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/DraggableBarDFB4495744BF88234287EAA12207D710.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/DraggableBar.uasset'
+[2023.03.28-03.56.13:901][601]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 1.19 sec)
+[2023.03.28-03.56.13:909][601]AssetCheck: New page: Asset Save: DraggableBar
+[2023.03.28-03.56.13:909][601]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/DraggableBar.DraggableBar
+[2023.03.28-03.56.14:534][663]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UIElements/DraggableBar.DraggableBar
+[2023.03.28-03.56.14:535][663]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-03.56.14:543][663]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-03.56.14:922][663]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.28-03.56.14:922][663]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.28-03.56.41:246][444]BlueprintLog: New page: Compile DraggableBar
+[2023.03.28-03.56.41:351][444]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.03.28-03.56.41:925][486]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.28-03.56.41:959][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIElements/DraggableBar" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/DraggableBar.uasset" SILENT=true
+[2023.03.28-03.56.41:963][486]LogSavePackage: Moving output files for package: /Game/UIElements/DraggableBar
+[2023.03.28-03.56.41:963][486]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/DraggableBar324B7ADE48B2F9FC1E77AFAAAB28A50D.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/DraggableBar.uasset'
+[2023.03.28-03.56.41:968][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 1.23 sec)
+[2023.03.28-03.56.41:976][486]AssetCheck: New page: Asset Save: DraggableBar
+[2023.03.28-03.56.41:976][486]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/DraggableBar.DraggableBar
+[2023.03.28-03.56.42:266][515]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.28-03.56.42:309][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIElements/FurnaceRepairUI" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/FurnaceRepairUI.uasset" SILENT=true
+[2023.03.28-03.56.42:360][515]LogSavePackage: Moving output files for package: /Game/UIElements/FurnaceRepairUI
+[2023.03.28-03.56.42:361][515]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/FurnaceRepairUI7886A77E478321786C6843A7FA394FB7.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/FurnaceRepairUI.uasset'
+[2023.03.28-03.56.42:366][515]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 1.33 sec)
+[2023.03.28-03.56.42:376][515]AssetCheck: New page: Asset Save: FurnaceRepairUI
+[2023.03.28-03.56.42:376][515]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/FurnaceRepairUI.FurnaceRepairUI
+[2023.03.28-03.56.42:451][522]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.28-03.56.42:491][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIElements/FurnaceRepairUI" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/FurnaceRepairUI.uasset" SILENT=true
+[2023.03.28-03.56.42:540][522]LogSavePackage: Moving output files for package: /Game/UIElements/FurnaceRepairUI
+[2023.03.28-03.56.42:541][522]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/FurnaceRepairUIECDAFB8D4FF311EA4A8654BF0ADD69AC.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/FurnaceRepairUI.uasset'
+[2023.03.28-03.56.42:545][522]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 1.43 sec)
+[2023.03.28-03.56.42:555][522]AssetCheck: New page: Asset Save: FurnaceRepairUI
+[2023.03.28-03.56.42:555][522]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/FurnaceRepairUI.FurnaceRepairUI
+[2023.03.28-03.56.46:110][802]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UIElements/DraggedBar.DraggedBar
+[2023.03.28-03.56.46:110][802]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-03.56.46:117][802]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-03.56.46:498][802]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.28-03.56.46:498][802]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.28-03.56.53:989][545]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.28-03.56.54:025][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIElements/DraggedBar" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/DraggedBar.uasset" SILENT=true
+[2023.03.28-03.56.54:028][545]LogSavePackage: Moving output files for package: /Game/UIElements/DraggedBar
+[2023.03.28-03.56.54:028][545]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/DraggedBarFC0886F1411AAE544AA03AB4685B9A5A.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/DraggedBar.uasset'
+[2023.03.28-03.56.54:033][545]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 1.47 sec)
+[2023.03.28-03.56.54:041][545]AssetCheck: New page: Asset Save: DraggedBar
+[2023.03.28-03.56.54:041][545]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/DraggedBar.DraggedBar
+[2023.03.28-03.57.03:456][412]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.28-03.57.04:518][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.28-03.57.04:558][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIElements/DraggedBar" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/DraggedBar.uasset" SILENT=true
+[2023.03.28-03.57.04:561][538]LogSavePackage: Moving output files for package: /Game/UIElements/DraggedBar
+[2023.03.28-03.57.04:561][538]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/DraggedBar64A58FD941311A91DA977F9D9A944F33.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/DraggedBar.uasset'
+[2023.03.28-03.57.04:566][538]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 1.52 sec)
+[2023.03.28-03.57.04:573][538]AssetCheck: New page: Asset Save: DraggedBar
+[2023.03.28-03.57.04:573][538]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/DraggedBar.DraggedBar
+[2023.03.28-03.57.05:021][590]BlueprintLog: New page: Compile DraggedBar
+[2023.03.28-03.57.05:139][590]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.03.28-03.57.05:254][591]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.28-03.57.05:291][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIElements/DraggedBar" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/DraggedBar.uasset" SILENT=true
+[2023.03.28-03.57.05:293][591]LogSavePackage: Moving output files for package: /Game/UIElements/DraggedBar
+[2023.03.28-03.57.05:294][591]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/DraggedBarC48694A5402DE7F00C47DDAABA9AF403.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/DraggedBar.uasset'
+[2023.03.28-03.57.05:298][591]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 1.56 sec)
+[2023.03.28-03.57.05:306][591]AssetCheck: New page: Asset Save: DraggedBar
+[2023.03.28-03.57.05:306][591]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/DraggedBar.DraggedBar
+[2023.03.28-03.57.08:259][904]BlueprintLog: New page: Compile DraggableBar
+[2023.03.28-03.57.08:343][904]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.03.28-03.57.08:514][905]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.28-03.57.08:541][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIElements/DraggableBar" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/DraggableBar.uasset" SILENT=true
+[2023.03.28-03.57.08:545][905]LogSavePackage: Moving output files for package: /Game/UIElements/DraggableBar
+[2023.03.28-03.57.08:545][905]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/DraggableBarCB66E9B645087C92FED1F89DECF11BC1.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/DraggableBar.uasset'
+[2023.03.28-03.57.08:549][905]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 1.60 sec)
+[2023.03.28-03.57.08:559][905]AssetCheck: New page: Asset Save: DraggableBar
+[2023.03.28-03.57.08:559][905]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/DraggableBar.DraggableBar
+[2023.03.28-03.57.20:901][318]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.28-03.57.20:902][318]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.28-03.57.20:902][318]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.28-03.57.27:514][ 39]LogEditorTransaction: Undo Delete current selection
+[2023.03.28-03.57.36:586][986]LogEditorTransaction: Undo Add Node
+[2023.03.28-03.57.37:107][996]LogEditorTransaction: Undo Delete current selection
+[2023.03.28-03.57.50:037][459]BlueprintLog: New page: Compile DraggableBar
+[2023.03.28-03.57.50:144][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.03.28-03.57.50:384][475]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.28-03.57.50:441][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIElements/DraggableBar" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/DraggableBar.uasset" SILENT=true
+[2023.03.28-03.57.50:445][475]LogSavePackage: Moving output files for package: /Game/UIElements/DraggableBar
+[2023.03.28-03.57.50:445][475]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/DraggableBarECD359CB400CA5A01055A7A1C55A5973.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/DraggableBar.uasset'
+[2023.03.28-03.57.50:449][475]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 1.67 sec)
+[2023.03.28-03.57.50:457][475]AssetCheck: New page: Asset Save: DraggableBar
+[2023.03.28-03.57.50:457][475]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/DraggableBar.DraggableBar
+[2023.03.28-04.00.12:111][990]BlueprintLog: New page: Compile PressureStationUi
+[2023.03.28-04.00.12:203][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.03.28-04.00.14:385][173]BlueprintLog: New page: Compile PressureStationUi
+[2023.03.28-04.00.14:474][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2023.03.28-04.00.22:476][872]BlueprintLog: New page: Compile PressureStationUi
+[2023.03.28-04.00.22:564][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.03.28-04.00.22:741][873]BlueprintLog: New page: Compile PressureStationUi
+[2023.03.28-04.00.22:830][873]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.03.28-04.00.23:927][960]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.28-04.00.23:979][960]LogSavePackage: Moving output files for package: /Game/UI/UI_Blueprints/PressureStationUi
+[2023.03.28-04.00.23:980][960]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/PressureStationUi6EC90F714670B90FA94C64987799AA87.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UI/UI_Blueprints/PressureStationUi.uasset'
+[2023.03.28-04.00.23:984][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 1.72 sec)
+[2023.03.28-04.00.23:993][960]AssetCheck: New page: Asset Save: PressureStationUi
+[2023.03.28-04.00.23:993][960]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UI_Blueprints/PressureStationUi.PressureStationUi
+[2023.03.28-04.00.24:091][969]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.28-04.00.24:118][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIElements/FurnaceRepairUI" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/FurnaceRepairUI.uasset" SILENT=true
+[2023.03.28-04.00.24:168][969]LogSavePackage: Moving output files for package: /Game/UIElements/FurnaceRepairUI
+[2023.03.28-04.00.24:169][969]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/FurnaceRepairUIFF68D94E42A500420ED30C8A2A919802.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/FurnaceRepairUI.uasset'
+[2023.03.28-04.00.24:174][969]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 1.81 sec)
+[2023.03.28-04.00.24:183][969]AssetCheck: New page: Asset Save: FurnaceRepairUI
+[2023.03.28-04.00.24:183][969]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/FurnaceRepairUI.FurnaceRepairUI
+[2023.03.28-04.00.24:250][975]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.28-04.00.24:285][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIElements/FurnaceRepairUI" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/FurnaceRepairUI.uasset" SILENT=true
+[2023.03.28-04.00.24:334][975]LogSavePackage: Moving output files for package: /Game/UIElements/FurnaceRepairUI
+[2023.03.28-04.00.24:335][975]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/FurnaceRepairUIB6C864CF4ADCBA6708DCF584C0F36F63.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/FurnaceRepairUI.uasset'
+[2023.03.28-04.00.24:340][975]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 1.90 sec)
+[2023.03.28-04.00.24:349][975]AssetCheck: New page: Asset Save: FurnaceRepairUI
+[2023.03.28-04.00.24:349][975]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/FurnaceRepairUI.FurnaceRepairUI
+[2023.03.28-04.01.00:683][181]LogShaderCompilers: Display: ================================================
+[2023.03.28-04.01.00:683][181]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.28-04.01.00:683][181]LogShaderCompilers: Display: Total job queries 312, among them cache hits 76 (24.36%)
+[2023.03.28-04.01.00:683][181]LogShaderCompilers: Display: Tracking 236 distinct input hashes that result in 154 distinct outputs (65.25%)
+[2023.03.28-04.01.00:683][181]LogShaderCompilers: Display: RAM used: 1.79 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.22%
+[2023.03.28-04.01.00:683][181]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.28-04.01.00:683][181]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.03.28-04.01.00:683][181]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.03.28-04.01.00:683][181]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.03.28-04.01.00:683][181]LogShaderCompilers: Display: ================================================
+[2023.03.28-04.01.07:335][772]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Pressure.Pressure_C
+[2023.03.28-04.01.07:335][772]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Pressure.Pressure_C
+[2023.03.28-04.01.07:338][772]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Pressure.Pressure as actor: Pressure_C /Game/Steven_Map.Steven_Map:PersistentLevel.Pressure_C_0
+[2023.03.28-04.01.07:340][772]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Pressure.Pressure as actor: Pressure_C /Game/Steven_Map.Steven_Map:PersistentLevel.Pressure_C_0
+[2023.03.28-04.01.07:344][772]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.03.28-04.01.09:656][ 25]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Pressure.Pressure_C
+[2023.03.28-04.01.09:656][ 25]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Pressure.Pressure_C
+[2023.03.28-04.01.09:659][ 25]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Pressure.Pressure as actor: Pressure_C /Game/Steven_Map.Steven_Map:PersistentLevel.Pressure_C_1
+[2023.03.28-04.01.09:661][ 25]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Pressure.Pressure as actor: Pressure_C /Game/Steven_Map.Steven_Map:PersistentLevel.Pressure_C_1
+[2023.03.28-04.01.21:840][228]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.03.28-04.01.21:848][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-04.01.21:848][228]PIE: New page: PIE session: Steven_Map (Mar 27, 2023, 2:01:21 PM)
+[2023.03.28-04.01.21:848][228]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Steven_Map
+[2023.03.28-04.01.21:888][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039292s)
+[2023.03.28-04.01.21:888][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Steven_Map.Steven_Map to /Game/UEDPIE_0_Steven_Map.Steven_Map (0.039317s)
+[2023.03.28-04.01.21:888][228]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-04.01.21:888][228]LogAIModule: Creating AISystem for world Steven_Map
+[2023.03.28-04.01.21:888][228]LogPlayLevel: PIE: World Init took: (0.000742s)
+[2023.03.28-04.01.21:980][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.03.28-04.01.21:982][228]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.03.28-04.01.21:982][228]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-04.01.21:982][228]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-04.01.21:982][228]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-04.01.21:982][228]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-04.01.21:982][228]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.28-04.01.21:982][228]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-04.01.21:982][228]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.28-04.01.21:982][228]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-04.01.21:983][228]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-04.01.21:983][228]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-04.01.21:983][228]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-04.01.21:985][228]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-04.01.22:007][228]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.28-04.01.22:008][228]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-04.01.22:008][228]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-04.01.22:008][228]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-04.01.22:008][228]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.03.28-04.01.22:008][228]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.03.28-04.01.22:010][228]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.03.28-04.01.22:010][228]LogInit: FAudioDevice initialized.
+[2023.03.28-04.01.22:010][228]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.03.28-04.01.22:010][228]LogAudio: Display: Audio Device (ID: 8) registered with world 'Steven_Map'.
+[2023.03.28-04.01.22:052][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-04.01.22:052][228]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.28-04.01.22:092][228]LogWorld: Bringing World /Game/UEDPIE_0_Steven_Map.Steven_Map up for play (max tick rate 0) at 2023.03.27-21.01.22
+[2023.03.28-04.01.22:097][228]LogWorld: Bringing up level for play took: 0.045290
+[2023.03.28-04.01.22:099][228]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.03.28-04.01.22:101][228]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Set thickness) or object (CoolerMachine_C_1)
+[2023.03.28-04.01.22:101][228]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (MoveArrow) or object (Pressure_C_1)
+[2023.03.28-04.01.22:101][228]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Set thickness) or object (Pressure_C_1)
+[2023.03.28-04.01.22:104][228]PIE: Server logged in
+[2023.03.28-04.01.22:106][228]PIE: Play in editor total start time 0.257 seconds.
+[2023.03.28-04.01.22:129][228]LogViewport: Scene viewport resized to 1594x820, mode Windowed.
+[2023.03.28-04.01.34:534][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-04.01.34:534][305]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Steven_Map
+[2023.03.28-04.01.34:535][305]LogSlate: Window 'Omniverse Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.03.28-04.01.34:539][305]LogWorld: UWorld::CleanupWorld for Steven_Map, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-04.01.34:541][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-04.01.34:543][305]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-04.01.34:551][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-04.01.34:630][305]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.03.28-04.01.34:632][305]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.03.28-04.01.34:644][305]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2023.03.28-04.01.34:683][306]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.03.28-04.01.39:704][821]LogContentBrowser: Attempting asset rename: Pressure -> Pressure
+[2023.03.28-04.01.59:686][931]Cmd: TRANSACTION UNDO
+[2023.03.28-04.01.59:686][931]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.28-04.02.00:231][941]Cmd: TRANSACTION UNDO
+[2023.03.28-04.02.00:232][941]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.28-04.02.01:284][ 30]Cmd: TRANSACTION UNDO
+[2023.03.28-04.02.01:284][ 30]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.28-04.02.01:739][ 69]Cmd: TRANSACTION UNDO
+[2023.03.28-04.02.01:739][ 69]LogEditorTransaction: Undo Move Elements
+[2023.03.28-04.02.03:621][246]Cmd: DELETE
+[2023.03.28-04.02.03:621][246]Cmd: ACTOR DELETE
+[2023.03.28-04.02.03:745][246]LogEditorActor: Deleted Actor: Pressure_C
+[2023.03.28-04.02.03:832][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.03.28-04.02.03:834][246]LogEditorActor: Deleted 1 Actors (0.206 secs)
+[2023.03.28-04.02.13:022][222]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pressure.Pressure
+[2023.03.28-04.02.13:022][222]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-04.02.36:588][467]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/CoolerMachine.CoolerMachine
+[2023.03.28-04.02.36:589][467]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-04.03.10:968][314]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UIElements/GlassDividerUI.GlassDividerUI
+[2023.03.28-04.03.10:969][314]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-04.03.10:976][314]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-04.03.11:405][314]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.28-04.03.11:405][314]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.28-04.03.32:860][554]BlueprintLog: New page: Compile PressureStationUi
+[2023.03.28-04.03.33:009][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.03.28-04.03.33:260][567]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.28-04.03.33:337][567]LogSavePackage: Moving output files for package: /Game/UI/UI_Blueprints/PressureStationUi
+[2023.03.28-04.03.33:337][567]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/PressureStationUi434B867B4B93625B328F03A0A95921DF.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UI/UI_Blueprints/PressureStationUi.uasset'
+[2023.03.28-04.03.33:344][567]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 1.98 sec)
+[2023.03.28-04.03.33:352][567]AssetCheck: New page: Asset Save: PressureStationUi
+[2023.03.28-04.03.33:352][567]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UI_Blueprints/PressureStationUi.PressureStationUi
+[2023.03.28-04.03.35:743][850]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.03.28-04.03.35:750][850]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-04.03.35:751][850]PIE: New page: PIE session: Steven_Map (Mar 27, 2023, 2:03:35 PM)
+[2023.03.28-04.03.35:751][850]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Steven_Map
+[2023.03.28-04.03.35:790][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038901s)
+[2023.03.28-04.03.35:790][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Steven_Map.Steven_Map to /Game/UEDPIE_0_Steven_Map.Steven_Map (0.038931s)
+[2023.03.28-04.03.35:790][850]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-04.03.35:790][850]LogAIModule: Creating AISystem for world Steven_Map
+[2023.03.28-04.03.35:791][850]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2023.03.28-04.03.35:886][850]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.03.28-04.03.35:887][850]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.03.28-04.03.35:887][850]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-04.03.35:887][850]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-04.03.35:887][850]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-04.03.35:887][850]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-04.03.35:887][850]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.28-04.03.35:887][850]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-04.03.35:887][850]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.28-04.03.35:887][850]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-04.03.35:888][850]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-04.03.35:888][850]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-04.03.35:888][850]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-04.03.35:891][850]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-04.03.35:913][850]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.28-04.03.35:913][850]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-04.03.35:913][850]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-04.03.35:913][850]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-04.03.35:913][850]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.03.28-04.03.35:913][850]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.03.28-04.03.35:916][850]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.03.28-04.03.35:916][850]LogInit: FAudioDevice initialized.
+[2023.03.28-04.03.35:916][850]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.03.28-04.03.35:916][850]LogAudio: Display: Audio Device (ID: 9) registered with world 'Steven_Map'.
+[2023.03.28-04.03.35:964][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-04.03.35:964][850]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.28-04.03.36:005][850]LogWorld: Bringing World /Game/UEDPIE_0_Steven_Map.Steven_Map up for play (max tick rate 0) at 2023.03.27-21.03.36
+[2023.03.28-04.03.36:010][850]LogWorld: Bringing up level for play took: 0.045755
+[2023.03.28-04.03.36:012][850]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2023.03.28-04.03.36:014][850]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Set thickness) or object (CoolerMachine_C_1)
+[2023.03.28-04.03.36:016][850]PIE: Server logged in
+[2023.03.28-04.03.36:018][850]PIE: Play in editor total start time 0.267 seconds.
+[2023.03.28-04.03.36:039][850]LogViewport: Scene viewport resized to 1594x820, mode Windowed.
+[2023.03.28-04.03.37:265][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-04.03.37:265][925]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Steven_Map
+[2023.03.28-04.03.37:266][925]LogSlate: Window 'Omniverse Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.03.28-04.03.37:270][925]LogWorld: UWorld::CleanupWorld for Steven_Map, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-04.03.37:272][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-04.03.37:275][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-04.03.37:283][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-04.03.37:373][925]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.28-04.03.37:374][925]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.03.28-04.03.37:376][925]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.03.28-04.03.37:387][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.03.28-04.03.37:406][926]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.03.28-04.03.50:731][264]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Pressure.Pressure_C
+[2023.03.28-04.03.50:731][264]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Pressure.Pressure_C
+[2023.03.28-04.03.50:733][264]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Pressure.Pressure as actor: Pressure_C /Game/Steven_Map.Steven_Map:PersistentLevel.Pressure_C_2
+[2023.03.28-04.03.50:735][264]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Pressure.Pressure as actor: Pressure_C /Game/Steven_Map.Steven_Map:PersistentLevel.Pressure_C_2
+[2023.03.28-04.03.51:419][333]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Pressure.Pressure_C
+[2023.03.28-04.03.51:419][333]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Pressure.Pressure_C
+[2023.03.28-04.03.51:422][333]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Pressure.Pressure as actor: Pressure_C /Game/Steven_Map.Steven_Map:PersistentLevel.Pressure_C_3
+[2023.03.28-04.03.51:424][333]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Pressure.Pressure as actor: Pressure_C /Game/Steven_Map.Steven_Map:PersistentLevel.Pressure_C_3
+[2023.03.28-04.03.56:620][866]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.03.28-04.03.56:629][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-04.03.56:629][866]PIE: New page: PIE session: Steven_Map (Mar 27, 2023, 2:03:56 PM)
+[2023.03.28-04.03.56:629][866]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Steven_Map
+[2023.03.28-04.03.56:668][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038832s)
+[2023.03.28-04.03.56:668][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Steven_Map.Steven_Map to /Game/UEDPIE_0_Steven_Map.Steven_Map (0.038855s)
+[2023.03.28-04.03.56:668][866]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-04.03.56:669][866]LogAIModule: Creating AISystem for world Steven_Map
+[2023.03.28-04.03.56:669][866]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2023.03.28-04.03.56:765][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.03.28-04.03.56:767][866]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.03.28-04.03.56:767][866]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-04.03.56:767][866]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-04.03.56:767][866]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-04.03.56:767][866]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-04.03.56:767][866]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.28-04.03.56:767][866]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-04.03.56:767][866]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.28-04.03.56:767][866]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-04.03.56:767][866]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-04.03.56:767][866]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-04.03.56:767][866]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-04.03.56:769][866]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-04.03.56:791][866]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.28-04.03.56:791][866]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-04.03.56:791][866]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-04.03.56:791][866]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-04.03.56:791][866]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.03.28-04.03.56:791][866]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.03.28-04.03.56:793][866]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.03.28-04.03.56:793][866]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.03.28-04.03.56:793][866]LogInit: FAudioDevice initialized.
+[2023.03.28-04.03.56:793][866]LogAudio: Display: Audio Device (ID: 10) registered with world 'Steven_Map'.
+[2023.03.28-04.03.56:846][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-04.03.56:846][866]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.28-04.03.56:887][866]LogWorld: Bringing World /Game/UEDPIE_0_Steven_Map.Steven_Map up for play (max tick rate 0) at 2023.03.27-21.03.56
+[2023.03.28-04.03.56:892][866]LogWorld: Bringing up level for play took: 0.045708
+[2023.03.28-04.03.56:894][866]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2023.03.28-04.03.56:896][866]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Set thickness) or object (CoolerMachine_C_1)
+[2023.03.28-04.03.56:896][866]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (MoveArrow) or object (Pressure_C_3)
+[2023.03.28-04.03.56:896][866]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (Set thickness) or object (Pressure_C_3)
+[2023.03.28-04.03.56:898][866]PIE: Server logged in
+[2023.03.28-04.03.56:900][866]PIE: Play in editor total start time 0.273 seconds.
+[2023.03.28-04.03.56:924][866]LogViewport: Scene viewport resized to 1594x820, mode Windowed.
+[2023.03.28-04.04.13:875][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-04.04.13:875][408]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Steven_Map
+[2023.03.28-04.04.13:876][408]LogSlate: Window 'Omniverse Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.03.28-04.04.13:880][408]LogWorld: UWorld::CleanupWorld for Steven_Map, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-04.04.13:882][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-04.04.13:886][408]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-04.04.13:894][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-04.04.13:986][408]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.03.28-04.04.13:988][408]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.03.28-04.04.13:999][408]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.03.28-04.04.14:026][409]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.03.28-04.04.55:159][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.03.28-04.04.55:245][284]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Steven_Map_Auto2
+[2023.03.28-04.04.55:245][284]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/Steven_Map_Auto2FA9B145B4C8E386884FB47AA4FC54663.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/Autosaves/Game/Steven_Map_Auto2.umap'
+[2023.03.28-04.04.55:254][284]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Steven_Map' took 0.187
+[2023.03.28-04.04.55:254][284]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.187
+[2023.03.28-04.05.01:066][896]Cmd: TRANSACTION UNDO
+[2023.03.28-04.05.01:066][896]LogEditorTransaction: Undo Move Elements
+[2023.03.28-04.05.01:610][907]Cmd: TRANSACTION UNDO
+[2023.03.28-04.05.01:610][907]LogEditorTransaction: Undo Move Elements
+[2023.03.28-04.05.07:664][541]Cmd: DELETE
+[2023.03.28-04.05.07:664][541]Cmd: ACTOR DELETE
+[2023.03.28-04.05.07:768][541]LogEditorActor: Deleted Actor: Pressure_C
+[2023.03.28-04.05.07:869][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.03.28-04.05.07:871][541]LogEditorActor: Deleted 1 Actors (0.207 secs)
+[2023.03.28-04.06.45:773][614]BlueprintLog: New page: Compile PressureStationUi
+[2023.03.28-04.06.45:906][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.03.28-04.06.46:632][662]BlueprintLog: New page: Compile PressureStationUi
+[2023.03.28-04.06.46:761][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.03.28-04.06.50:957][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.28-04.06.51:035][ 38]LogSavePackage: Moving output files for package: /Game/UI/UI_Blueprints/PressureStationUi
+[2023.03.28-04.06.51:036][ 38]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/PressureStationUi2C17F04C408F28DAF3F271B8D41865F2.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UI/UI_Blueprints/PressureStationUi.uasset'
+[2023.03.28-04.06.51:042][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 2.06 sec)
+[2023.03.28-04.06.51:051][ 38]AssetCheck: New page: Asset Save: PressureStationUi
+[2023.03.28-04.06.51:051][ 38]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UI_Blueprints/PressureStationUi.PressureStationUi
+[2023.03.28-04.08.07:257][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.28-04.08.07:309][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIElements/GlassDividerUI" FILE="../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/GlassDividerUI.uasset" SILENT=true
+[2023.03.28-04.08.07:361][345]LogSavePackage: Moving output files for package: /Game/UIElements/GlassDividerUI
+[2023.03.28-04.08.07:361][345]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Saved/GlassDividerUI17E29404485C145A33DD4EABCE5329E7.tmp' to '../../../../../../Users/Nik/Documents/GitHub/CPI441_Omniverse/Omniverse/Content/UIElements/GlassDividerUI.uasset'
+[2023.03.28-04.08.07:366][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 2.17 sec)
+[2023.03.28-04.08.07:378][345]AssetCheck: New page: Asset Save: GlassDividerUI
+[2023.03.28-04.08.07:378][345]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIElements/GlassDividerUI.GlassDividerUI
